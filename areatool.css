@@ -1,0 +1,219 @@
+html, body{
+    padding:0;
+    margin:0;
+    font-family: Arial, sans-serif;
+    background-color:#334;
+    color:#fff;
+}
+hr{
+    border-color:#778;
+    opacity:.5;
+}
+
+button{
+    padding: .3em 1em;
+    cursor: pointer;
+    background-color: #ccd;
+    border: 0;
+    border-radius: .4em;
+    border-bottom:3px solid #334;
+}
+button:hover{
+    background-color: #eef;
+}
+button.selected{
+    background-color: #6262ff!important;
+    color: #fff;
+}
+button.warning{
+    background-color: #e8afff!important;
+    color: #fff;
+}
+
+.area-editor{
+    display:flex;
+}
+.area-editor__left{
+    width:15%;
+    position: relative;
+    padding:.5em;
+}
+.area-editor__left ul{
+    width:100%;
+    padding:.5em 0;
+    max-height:30vh;
+    overflow-y:auto;
+    background-color:#556;
+    position: relative;
+    list-style: none;
+    border-radius: .5em;
+}
+.area-editor__left ul li{
+    width:90%;
+    margin:.2em auto;
+    
+}
+.area-editor__left ul li button{
+    width:100%;
+    padding: .3em .1em;
+    margin:auto;
+    display:block;
+    cursor: pointer;
+    background-color: #ccd;
+    border: 0;
+    border-radius: .4em;
+    border-bottom:3px solid #334;
+}
+
+.area-editor__right{
+    width:80%;
+    position: relative;
+}
+#AreaEditorMain{
+    padding:1em;
+}
+#areaForm{
+    padding:1em;
+    border:2px solid #445;
+    border-radius: .5em;
+    position:relative;
+    display:flex;
+    flex-wrap: wrap;
+    margin-bottom:2em;
+}
+#areaForm section{
+    padding:.5em;
+    background-color:#445;
+    margin:.5em;
+    border-radius: .5em;
+    position:relative;
+    width:calc(50% - 2em);
+}
+#areaForm label{
+    /* display:block; */
+}
+.area-editor__title label{
+    display:block;
+}
+.area-editor__title button{
+    float: right;
+}
+.area-editor__title label span{
+    width:110px;
+    display:inline-block;
+    text-align: right;
+}
+.area-editor__title label input{
+    width:250px;
+}
+.area-editor__title label input[name="order"]{
+    width:50px;
+}
+.area-editor__artist label{
+    display:block;
+    margin: .2em 0;
+}
+.area-editor__artist label span{
+    display:block;
+    /* text-align: right; */
+}
+.area-editor__artist label input{
+    width:200px;
+}
+.area-editor__box h4{
+    margin:.5em 0;
+}
+.area-editor__box p{
+    margin:.2em 0;
+}
+.area-editor__box input{
+    width:60px;
+    margin-left:5px;
+    margin-right:10px;
+}
+.area-editor__box > div{
+    margin-bottom:.8em;
+    background-color:#556;
+    padding: .5em;
+    border-radius: .5em;
+}
+.area-editor__box > div:last-child label{
+    display:block;
+    margin-bottom:.2em;
+}
+.area-editor__box > div:last-child label span{
+    width: 130px;
+    display:inline-block;
+    text-align: right;
+    align-items: center;
+}
+.area-editor__teleporters h4{
+   margin-top:.3em;
+}
+.area-editor__teleporters h5{
+   margin: 0;
+}
+.area-editor__teleporters > label{
+   display:inline-flex;
+   /* width:calc(50% - 1em); */
+   position: relative;
+}
+.area-editor__teleporters > label span{
+  display:block;
+  width:5%;
+  margin-right:5px;
+}
+.area-editor__teleporters > label input{
+  display:block;
+  width:40px;
+}
+.area-editor__teleporters > label input:last-child{
+  background-color:#556;
+}
+.area-editor__teleporters ul{
+    list-style: none;
+    padding:0;
+}
+.area-editor__teleporters ul li{
+    padding:.5em;
+    margin-bottom:.8em;
+    background-color:#556;
+    border-radius: .5em
+}
+
+.area-editor__teleporters li > label {
+    margin-bottom: .8em;
+    display:block;
+}
+.area-editor__teleporters li div input{
+    width:60px;
+    margin-left:5px;
+    margin-right:10px;
+}
+.area-editor__teleporters li button{
+    float:right;
+}
+
+
+
+.area-editor__output {
+    padding:1em;
+    border:2px solid #445;
+    border-radius: .5em;
+    position:relative;
+    margin-bottom:2em;
+}
+.area-editor__output textarea {
+    width:100%;
+    height: 10vh;
+    
+}
+
+input, textarea, select{
+    background-color:#223;
+    color:skyblue;
+    border: 0;
+    border-radius: .5em;
+    margin:.2em;
+    min-height: 20px;;
+}
