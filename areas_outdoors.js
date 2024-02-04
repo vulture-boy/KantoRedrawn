@@ -51,9 +51,9 @@ var kantoAreas = [
     order: 1,
     title: "Route 1",
     ident: "route_1",
-    artist: "@spooonnnboy",
+    artist: "@Joogleous",
     artistImageOverride: "",
-    url: "https://twitter.com/spooonnnboy",
+    url: "https://twitter.com/Joogleous",
     animation: false,
     point: {
       x: 832,
@@ -69,7 +69,7 @@ var kantoAreas = [
     type: "route",
     zoom: 1,
     teleporters: [],
-    post_url: "https://twitter.com/spooonnnboy/status/1500563916593709063"
+    post_url: "https://twitter.com/Joogleous/status/1500563916593709063"
   },
   {
     order: 2,
@@ -242,7 +242,7 @@ var kantoAreas = [
     ident: "route_3_west",
     artist: "@chreniafoka",
     artistImageOverride: "",
-    url: "https://twitter.com/chreniafoka/status",
+    url: "https://twitter.com/chreniafoka",
     animation: false,
     point: {
       x: 1312,
