@@ -1327,7 +1327,7 @@ var interiorAreas = [
         ident: "mansion_B1f",
         artist: "Liam Cuthbert",
         artistImageOverride: "unknown_artist",
-        url: "https://twitter.com/LiamCuthbertArt",
+        url: "https://twitter.com/MorlockArt",
         animation: false,
         point: {
           x: 0,
@@ -1342,6 +1342,7 @@ var interiorAreas = [
         zoom: 2,
         teleporters: [],
         order: 63
+		post_url: "https://twitter.com/LiamCuthbertArt/status/1529176430411755520"
       },
       {
         title: "Pokémon Tower 1F",
