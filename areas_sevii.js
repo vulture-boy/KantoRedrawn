@@ -321,5 +321,245 @@ var seviiAreas = [
     post_url: "https://twitter.com/blindeduif/status/1389625876720070656"
   },
 
-
+    {
+    order: 13,
+    title: "Six Island Town",
+    ident: "Six-Island-Town",
+    artist: "@Arkflinn",
+    artistImageOverride: "",
+    url: "https://twitter.com/Arkflinn",
+    animation: false,
+    point: {
+      x: 3792,
+      y: 4976
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/Arkflinn/status/1452650498310516749"
+  },
+    {
+    order: 14,
+    title: "Six Island: Ruin Valley",
+    ident: "Six-Island-Ruin-Valley",
+    artist: "@Zaebucca",
+    artistImageOverride: "",
+    url: "https://twitter.com/zaebucca",
+    animation: false,
+    point: {
+      x: 3792,
+      y: 4976
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: ""
+  },
+  
+      {
+    order: 15,
+    title: "Six Island: Green Path",
+    ident: "Six-Island-Green-Path",
+    artist: "@Yuki",
+    artistImageOverride: "",
+    url: "https://twitter.com/YukiPixels",
+    animation: false,
+    point: {
+      x: 3136,
+      y: 4400
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/YukiPixels/status/1565375680875008002"
+  },
+  {
+    order: 16,
+    title: "Six Island: Outcast Island",
+    ident: "Six-Island-Outcast-Island",
+    artist: "@Gif",
+    artistImageOverride: "",
+    url: "https://twitter.com/gif_not_jif",
+    animation: false,
+    point: {
+      x: 3068,
+      y: 3392
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: ""
+  },
+     {
+    order: 17,
+    title: "Seven Island Town and Trainer Tower",
+    ident: "Seven-Island-Town-Trainer-Tower",
+    artist: "@Woodspixl",
+    artistImageOverride: "",
+    url: "https://twitter.com/Woodspixl_",
+    animation: false,
+    point: {
+      x: 848,
+      y: 4138
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/Woodspixl_/status/1380866320376401922"
+  },
+     {
+    order: 18,
+    title: "Seven Island: Seavault Canyon North",
+    ident: "Seven-Island-Seavault-Canyon-North",
+    artist: "@Lombrix",
+    artistImageOverride: "",
+    url: "https://twitter.com/LuisEnr13182831",
+    animation: false,
+    point: {
+      x: 928,
+      y: 5200
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/LuisEnr13182831/status/1435083713554042881"
+  },
+       {
+    order: 19,
+    title: "Seven Island: Seavault Canyon South",
+    ident: "Seven-Island-Seavault-Canyon-South",
+    artist: "@Luna",
+    artistImageOverride: "",
+    url: "https://twitter.com/RunicPixels",
+    animation: false,
+    point: {
+      x: 848,
+      y: 4138
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/RunicPixels/status/1398219473014951937"
+  },
+       {
+    order: 20,
+    title: "Seven Island: Tanoby Ruins",
+    ident: "Seven-Island-Tanoby-Ruins",
+    artist: "@Luna",
+    artistImageOverride: "",
+    url: "https://twitter.com/RunicPixels",
+    animation: false,
+    point: {
+      x: 688,
+      y: 6512
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/RunicPixels/status/1457707748108509184"
+  },
+       {
+    order: 21,
+    title: "Sevii Islands: Navel Rock",
+    ident: "Sevii-Islands-Naval-Rock",
+    artist: "@StrawBe",
+    artistImageOverride: "",
+    url: "https://twitter.com/StrawPact",
+    animation: false,
+    point: {
+      x: 688,
+      y: 6512
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/StrawPact/status/1446185979631579148"
+  },
+       {
+    order: 22,
+    title: "Sevii Islands: Birth Island",
+    ident: "Sevii-Islands-Birth-Island",
+    artist: "@Noodle",
+    artistImageOverride: "",
+    url: "https://twitter.com/r_ramenoodles",
+    animation: false,
+    point: {
+      x: 3312,
+      y: 6384
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/r_ramenoodles/status/1369126920865124353"
+  },
 ] 
