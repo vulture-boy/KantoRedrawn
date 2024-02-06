@@ -1,5 +1,5 @@
 var seviiAreas = [
-/*
+
   {
     order: null,
     title: "One Island Mt. Ember",
@@ -25,7 +25,6 @@ var seviiAreas = [
     post_url: "https://twitter.com/Dewndeym/status/1393800531047485441"
   },
  
-
   {
     order: 1,
     title: "One Island Town",
@@ -45,8 +44,8 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
-    zoom: 1,
+    type: "town",
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/Anima_nel/status/1547326349253148674"
   },
@@ -55,7 +54,7 @@ var seviiAreas = [
     order: 2,
     title: "One Island Treasure Beach",
     ident: "One-Island-Treasure-Beach",
-    artist: "@KarlestonChew"
+    artist: "@KarlestonChew",
     artistImageOverride: "",
     url: "https://twitter.com/KarlestonChew",
     animation: false,
@@ -71,10 +70,10 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "route",
-    zoom: 1,
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/KarlestonChew/status/1482883281808986113"
-  },
+  },  
   {
    order: 3,
     title: "One Island Kindle Road",
@@ -119,12 +118,12 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "town",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/_unsettled_/status/1403027122223001611"
   },
-  
+
    {
    order: 5,
     title: "Two Island: Cape Brink",
@@ -149,7 +148,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/Paprika_d/status/1481656412463722506"
   },
-
+  
    {
    order: 6,
     title: "Three Island Town",
@@ -227,7 +226,7 @@ var seviiAreas = [
    {
    order: 9,
     title: "Five Island Town and Meadow",
-    ident: "Five-Island-Town-and-Meadow",
+    ident: "Five-Island-Town-Meadow",
     artist: "@StrawBe",
     artistImageOverride: "",
     url: "https://twitter.com/StrawPact",
@@ -348,6 +347,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/Arkflinn/status/1452650498310516749"
   },
+ 
     {
     order: 14,
     title: "Six Island: Ruin Valley",
@@ -493,6 +493,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/RunicPixels/status/1398219473014951937"
   },
+  
        {
     order: 20,
     title: "Seven Island: Tanoby Ruins",
@@ -513,14 +514,14 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "route",
-    zoom: 1,
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/RunicPixels/status/1457707748108509184"
   },
-       {
+  {
     order: 21,
     title: "Sevii Islands: Navel Rock",
-    ident: "Sevii-Islands-Naval-Rock",
+    ident: "Sevii-Islands-Navel-Rock",
     artist: "@StrawBe",
     artistImageOverride: "",
     url: "https://twitter.com/StrawPact",
@@ -537,15 +538,15 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "route",
-    zoom: 1,
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1446185979631579148"
-  },
-       {
+  },  
+  {
     order: 22,
     title: "Sevii Islands: Birth Island",
     ident: "Sevii-Islands-Birth-Island",
-    artist: "@Noodle",
+    artist: "@r_ramenoodles",
     artistImageOverride: "",
     url: "https://twitter.com/r_ramenoodles",
     animation: false,
@@ -561,9 +562,8 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "route",
-    zoom: 1,
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/r_ramenoodles/status/1369126920865124353"
-  },
-  */
+  }
 ] 
