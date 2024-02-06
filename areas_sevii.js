@@ -1,6 +1,7 @@
 var seviiAreas = [
+/*
   {
-    order: 0,
+    order: null,
     title: "One Island Mt. Ember",
     ident: "One-Island-Mt-Ember",
     artist: "@Dewndeym",
@@ -9,7 +10,7 @@ var seviiAreas = [
     animation: false,
     point: {
       x: 0,
-      y: 0
+      y: 0,
     },
     offset: {
       x: null,
@@ -18,11 +19,13 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
-    zoom: 1,
+    type: "mountain",
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/Dewndeym/status/1393800531047485441"
   },
+ 
+
   {
     order: 1,
     title: "One Island Town",
@@ -562,4 +565,5 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/r_ramenoodles/status/1369126920865124353"
   },
+  */
 ] 

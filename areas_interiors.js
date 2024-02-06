@@ -1342,7 +1342,6 @@ var interiorAreas = [
         zoom: 2,
         teleporters: [],
         order: 63
-		post_url: "https://twitter.com/LiamCuthbertArt/status/1529176430411755520"
       },
       {
         title: "Pokémon Tower 1F",
