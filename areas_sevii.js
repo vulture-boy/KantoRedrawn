@@ -357,8 +357,8 @@ var seviiAreas = [
     url: "https://twitter.com/zaebucca",
     animation: false,
     point: {
-      x: 3792,
-      y: 4976
+      x: 3408,
+      y: 5392
     },
     offset: {
       x: null,
@@ -478,8 +478,8 @@ var seviiAreas = [
     url: "https://twitter.com/RunicPixels",
     animation: false,
     point: {
-      x: 848,
-      y: 4138
+      x: 1267,
+      y: 6003
     },
     offset: {
       x: null,
@@ -527,8 +527,8 @@ var seviiAreas = [
     url: "https://twitter.com/StrawPact",
     animation: false,
     point: {
-      x: 688,
-      y: 6512
+      x: 720,
+      y: 2928
     },
     offset: {
       x: null,
