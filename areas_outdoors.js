@@ -9,9 +9,7 @@ var kantoAreas = [
     animation: false,
     point: {
       x: 832,
-      y: 4512,
-      width: 320,
-      height: 288
+      y: 4512
     },
     offset: {
       x: null,
