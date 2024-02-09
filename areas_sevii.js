@@ -103,7 +103,7 @@ var seviiAreas = [
    order: 4,
     title: "Two Island Town",
     ident: "Two-Island-Town",
-    artist: "@Unsettled",
+    artist: "@_unsettled_",
     artistImageOverride: "",
     url: "https://twitter.com/_unsettled_",
     animation: false,
@@ -178,7 +178,7 @@ var seviiAreas = [
    order: 7,
     title: "Three Island: Bond Bridge",
     ident: "Three-Island-Bond-Bridge",
-    artist: "@Zikoure",
+    artist: "@SuperZikoure",
     artistImageOverride: "",
     url: "https://twitter.com/SuperZikoure",
     animation: false,
@@ -220,7 +220,7 @@ var seviiAreas = [
     type: "route",
     zoom: 1,
     teleporters: [],
-    post_url: "https://twitter.com/StrawPact/status/1459286160727969796"
+    post_url: "https://twitter.com/StrawPact/status/1578148922630975492/photo/1"
   },
   
    {
@@ -245,9 +245,8 @@ var seviiAreas = [
     type: "route",
     zoom: 1,
     teleporters: [],
-    post_url: ""
+    post_url: "https://twitter.com/StrawPact/status/1459286160727969796"
   },
-
   {
     order: 10,
     title: "Five Island Memorial Pillar",
@@ -277,7 +276,7 @@ var seviiAreas = [
     order: 11,
     title: "Five Island: Water Labyrinth",
     ident: "Five-Island-Water-Labyrinth",
-    artist: "@toaster",
+    artist: "@1000_toasters",
     artistImageOverride: "",
     url: "https://twitter.com/1000_toasters",
     animation: false,
@@ -370,14 +369,14 @@ var seviiAreas = [
     type: "route",
     zoom: 1,
     teleporters: [],
-    post_url: ""
+    post_url: "https://twitter.com/zaebucca/status/1723124537665937639"
   },
   
       {
     order: 15,
     title: "Six Island: Green Path",
     ident: "Six-Island-Green-Path",
-    artist: "@Yuki",
+    artist: "@YukiPixels",
     artistImageOverride: "",
     url: "https://twitter.com/YukiPixels",
     animation: false,
@@ -401,7 +400,7 @@ var seviiAreas = [
     order: 16,
     title: "Six Island: Outcast Island",
     ident: "Six-Island-Outcast-Island",
-    artist: "@Gif",
+    artist: "@gif_not_jiff",
     artistImageOverride: "",
     url: "https://twitter.com/gif_not_jif",
     animation: false,
@@ -419,13 +418,13 @@ var seviiAreas = [
     type: "route",
     zoom: 1,
     teleporters: [],
-    post_url: ""
+    post_url: "https://twitter.com/gif_not_jif/status/1690105812486852609"
   },
      {
     order: 17,
     title: "Seven Island Town and Trainer Tower",
     ident: "Seven-Island-Town-Trainer-Tower",
-    artist: "@Woodspixl",
+    artist: "@Woodspixl_",
     artistImageOverride: "",
     url: "https://twitter.com/Woodspixl_",
     animation: false,
@@ -449,7 +448,7 @@ var seviiAreas = [
     order: 18,
     title: "Seven Island: Seavault Canyon North",
     ident: "Seven-Island-Seavault-Canyon-North",
-    artist: "@Lombrix",
+    artist: "@LuisEnr13182831",
     artistImageOverride: "",
     url: "https://twitter.com/LuisEnr13182831",
     animation: false,
@@ -473,7 +472,7 @@ var seviiAreas = [
     order: 19,
     title: "Seven Island: Seavault Canyon South",
     ident: "Seven-Island-Seavault-Canyon-South",
-    artist: "@Luna",
+    artist: "@RunicPixels",
     artistImageOverride: "",
     url: "https://twitter.com/RunicPixels",
     animation: false,
@@ -498,7 +497,7 @@ var seviiAreas = [
     order: 20,
     title: "Seven Island: Tanoby Ruins",
     ident: "Seven-Island-Tanoby-Ruins",
-    artist: "@Luna",
+    artist: "@RunicPixels",
     artistImageOverride: "",
     url: "https://twitter.com/RunicPixels",
     animation: false,
