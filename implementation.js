@@ -120,4 +120,16 @@ var biomes = [
         iconId: "directions_boat",
         color: 'rgb(108 127 171)',
     },
+	{
+        name: "Bike",
+        ident: "bike",
+        iconId: "pedal_bike",
+        color: 'rgb(128 127 120)',
+    },
+		    {
+        name: "Route",
+        ident: "route",
+        iconId: "grass",
+        color: 'rgb(140 200 110)',
+    },
 ];

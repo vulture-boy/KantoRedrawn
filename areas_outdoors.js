@@ -759,7 +759,7 @@ var kantoAreas = [
       height: 32
     },
     pan: "horizontal",
-    type: "route",
+    type: "bike",
     zoom: 2,
     teleporters: [],
     order: 29,
@@ -783,7 +783,7 @@ var kantoAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "bike",
     zoom: 1,
     teleporters: [],
     order: 30,
@@ -807,7 +807,7 @@ var kantoAreas = [
       height: 21
     },
     pan: "horizontal",
-    type: "route",
+    type: "bike",
     zoom: 2,
     teleporters: [],
     order: 31,
