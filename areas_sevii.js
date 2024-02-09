@@ -69,7 +69,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/KarlestonChew/status/1482883281808986113"
@@ -93,7 +93,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 1,
     teleporters: [],
     post_url: ""
@@ -143,7 +143,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "town",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/Paprika_d/status/1481656412463722506"
@@ -168,7 +168,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "town",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/HaywireJo/status/1370096913681416194"
@@ -217,7 +217,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "town",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1578148922630975492/photo/1"
@@ -242,7 +242,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "town",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1459286160727969796"
@@ -266,7 +266,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1436843389195104257"
@@ -291,7 +291,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/1000_toasters/status/1599805934980673539"
@@ -316,7 +316,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/blindeduif/status/1389625876720070656"
@@ -341,7 +341,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "town",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/Arkflinn/status/1452650498310516749"
@@ -366,7 +366,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "mountain",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/zaebucca/status/1723124537665937639"
@@ -415,7 +415,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/gif_not_jif/status/1690105812486852609"
@@ -439,7 +439,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "town",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/Woodspixl_/status/1380866320376401922"
@@ -463,7 +463,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "mountain",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/LuisEnr13182831/status/1435083713554042881"
@@ -487,7 +487,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "mountain",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/RunicPixels/status/1398219473014951937"
@@ -512,7 +512,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/RunicPixels/status/1457707748108509184"
@@ -536,7 +536,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1446185979631579148"
@@ -560,7 +560,7 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "route",
+    type: "surfing",
     zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/r_ramenoodles/status/1369126920865124353"
