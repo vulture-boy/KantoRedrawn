@@ -270,14 +270,15 @@ function buildMap () {
 }
 
 function toggleMapStyle () {
-    var dropdown = document.getElementById('mapSelector')
+    var selectRedrawn = document.getElementById('mapSelectRedrawn');
+    var selectOriginal = document.getElementById('mapSelectOriginal');
     var lastMapStyle = currentMapStyle;
 
-    if (dropdown.value === "redrawn") 
+    if (selectRedrawn.checked) 
     {
         currentMapStyle = NEW_STYLE_NAME;
     }
-    if (dropdown.value === "original") 
+    if (selectOriginal.checked) 
     {
         currentMapStyle = OLD_STYLE_NAME;
     }

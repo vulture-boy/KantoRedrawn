@@ -37,8 +37,11 @@
                         <img src="img/website/kanto_redrawn_logo.png" alt="Kanto Redrawn" draggable="false" />
                     </a>
                 </div>
-                <div class="tour">
-                    <button id="tourButton" onclick="toggleTour()"><span class="material-icons">play_arrow</span> <span>Begin Tour</span></button>
+                <div style="text-align: center;">
+                    <input type="radio" id="mapSelectRedrawn" name="mapSelect" value="redrawn" checked onchange="toggleMapStyle()">
+                    <label for="mapSelectRedrawn">Redrawn</label>
+                    <input type="radio" id="mapSelectOriginal" name="mapSelect" value="original" onchange="toggleMapStyle()">
+                    <label for="mapSelectOriginal">Original</label>
                 </div>
                 <div class="menu__actions">
                     <button onclick="changeTab(0)" class="menu__tab active">
@@ -64,11 +67,7 @@
                     </div>
                     <div id="settings">
                         <div><input type="checkbox" id="disableBlur"><label for="disableBlur">Disable Zoom Blur</label> </div><br>
-                        <div><label for="mapSelector">Change Map:</label>
-                        <select name="mapSelector" id="mapSelector" onchange="toggleMapStyle()">
-                            <option value="redrawn">Redrawn</option>
-                            <option value="original">Original</option>
-                        </select></div><br>
+                        <br>
                         <hr>
                         <div>
                             <label>Camera Speed</label><br>
@@ -83,7 +82,7 @@
                         <hr>
                     </div>
                     <div id="about">
-                        <p>Pokemon Redrawn is a collaborative art project by a group of passionate pixel artists from across the world.</p>
+                        <p>Kanto Redrawn is a collaborative art project by a group of passionate pixel artists from across the world.</p>
                         <p>The project is an artistic reimagining of the Pokemon Red / Blue without hardware limitations.</p>
                         <hr>
                         <p>Pan and zoom the map the same you would on sites like Google Maps.</p>
@@ -100,6 +99,9 @@
                     </div>
                 </div>
                 <br>
+                <div class="tour">
+                    <button id="tourButton" onclick="toggleTour()"><span class="material-icons">play_arrow</span> <span>Begin Tour</span></button>
+                </div>
                 <div class="menu__disclaimer">
                     <hr>
                     <p>
