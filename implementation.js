@@ -130,6 +130,6 @@ var biomes = [
         name: "Route",
         ident: "route",
         iconId: "grass",
-        color: 'rgb(140 200 110)',
+        color: 'rgb(144 183 113)',
     },
 ];

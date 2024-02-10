@@ -21,7 +21,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 0,
-    post_url: ""
+    post_url: "https://twitter.com/Justice8Knight/status/1511067255899144198"
   },
   {
     title: "Player’s House 2F",
@@ -45,7 +45,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 1,
-    post_url: ""
+    post_url: "https://twitter.com/Justice8Knight/status/1511067255899144198"
   },
   {
     title: "Professor Oak’s Lab",
@@ -69,7 +69,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 2,
-    post_url: ""
+    post_url: "https://twitter.com/nekofresa/status/1405566170829369346"
   },
   {
     title: "PokéMart",
@@ -93,7 +93,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 3,
-    post_url: ""
+    post_url: "https://twitter.com/tanu_pxl/status/1544033334103117824"
   },
   {
     title: "Pokémon Center",
@@ -117,7 +117,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 4,
-    post_url: ""
+    post_url: "https://twitter.com/King_Worrell/status/1372902792520683522"
   },
   {
     title: "Trade Center",
@@ -141,7 +141,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 5,
-    post_url: ""
+    post_url: "https://twitter.com/MetaruPX/status/1371915887368896514"
   },
   {
     title: "Pokémon Academy",
@@ -165,7 +165,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 6,
-    post_url: ""
+    post_url: "https://twitter.com/StrawPact/status/1518351577957994496"
   },
   {
     title: "Trainer House 1F",
@@ -189,7 +189,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 7,
-    post_url: ""
+    post_url: "https://twitter.com/jamiedrummondyo/status/1567857506638249984"
   },
   {
     title: "Trainer House B1F",
@@ -213,7 +213,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 8,
-    post_url: ""
+    post_url: "https://twitter.com/StrawPact/status/1396869900027760641"
   },
   {
     title: "Pewter Museum 1F",
@@ -237,7 +237,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 9,
-    post_url: ""
+    post_url: "https://twitter.com/ckelsallpxls/status/1369694538005053444"
   },
   {
     title: "Pewter Museum 2F",
@@ -261,7 +261,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 10,
-    post_url: ""
+    post_url: "https://twitter.com/ckelsallpxls/status/1369694538005053444"
   },
   {
     title: "Pewter Gym",
@@ -285,7 +285,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 11,
-    post_url: ""
+    post_url: "https://twitter.com/Yam_Boy_/status/1524289869886988289"
   },
   {
     title: "Mt. Moon 1F",
@@ -309,7 +309,7 @@ var interiorAreas = [
     zoom: 1,
     teleporters: [],
     order: 12,
-    post_url: ""
+    post_url: "https://twitter.com/_Mechano_/status/1534511650484658176"
   },
   {
     title: "Mt. Moon B1F",
@@ -333,7 +333,7 @@ var interiorAreas = [
     zoom: 1,
     teleporters: [],
     order: 13,
-    post_url: ""
+    post_url: "https://twitter.com/foofarawr/status/1586758661464100865"
   },
   {
     title: "Mt. Moon B2F",
@@ -357,7 +357,7 @@ var interiorAreas = [
     zoom: 1,
     teleporters: [],
     order: 14,
-    post_url: ""
+    post_url: "https://twitter.com/MonsterIndieDev/status/1565343599222370306"
   },
   {
     title: "Bike Shop",
@@ -405,7 +405,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 16,
-    post_url: ""
+    post_url: "https://twitter.com/VCorbi/status/1369039830437466116"
   },
   {
     title: "Cerulean Gym",
@@ -429,7 +429,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 17,
-    post_url: ""
+    post_url: "https://twitter.com/JuliaGoodish/status/1376617313076707331"
   },
   {
     title: "Sea Cottage (Bill’s Lab)",
@@ -453,7 +453,7 @@ var interiorAreas = [
     zoom: 4,
     teleporters: [],
     order: 18,
-    post_url: ""
+    post_url: "https://twitter.com/SarahBoevingArt/status/1369043895640854533"
   },
   {
     title: "Underground (North-South)",
@@ -477,7 +477,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 19,
-    post_url: ""
+    post_url: "https://twitter.com/ckelsallpxls/status/1372958170885320706"
   },
   {
     title: "Pokémon Fan Club",
@@ -525,7 +525,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 21,
-    post_url: ""
+    post_url: "https://twitter.com/Anima_nel/status/1483078828188745733"
   },
   {
     title: "S.S. Anne Hallway & Kitchen",
@@ -549,7 +549,7 @@ var interiorAreas = [
     zoom: 1,
     teleporters: [],
     order: 22,
-    post_url: ""
+    post_url: "https://twitter.com/ItriPixels/status/1422932800374812673"
   },
   {
     title: "S.S. Anne Halls",
@@ -597,7 +597,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 24,
-    post_url: ""
+    post_url: "https://twitter.com/willsmithx4/status/1587559873583222784"
   },
   {
     title: "S.S. Anne Captain's Quarters",
@@ -621,7 +621,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 25,
-    post_url: ""
+    post_url: "https://twitter.com/1Sinvilla/status/1584666349946556417"
   },
   {
     title: "Diglett’s Tunnel",
@@ -645,7 +645,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 26,
-    post_url: ""
+    post_url: "https://twitter.com/PokemonEstelar/status/1533460356961832961"
   },
   {
     title: "Celadon Condos 1F",
@@ -669,7 +669,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 27,
-    post_url: ""
+    post_url: "https://twitter.com/emmazapan/status/1482070115629867010"
   },
   {
     title: "Celadon Condos 2F",
@@ -693,7 +693,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 28,
-    post_url: ""
+    post_url: "https://twitter.com/scribulls/status/1537519688107835392"
   },
   {
     title: "Celadon Condos 3F (Game Freak)",
@@ -741,7 +741,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 30,
-    post_url: ""
+    post_url: "https://twitter.com/diamchan/status/1411715630424723456"
   },
   {
     title: "Celadon Condos Roof",
@@ -765,7 +765,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 31,
-    post_url: ""
+    post_url: "https://twitter.com/KarlestonChew/status/1434980410514153473"
   },
   {
     title: "Celadon Department Store 1F",
@@ -813,7 +813,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 33,
-    post_url: ""
+    post_url: "https://twitter.com/AaronLyzerus/status/1589041440486993920"
   },
   {
     title: "Celadon Department Store 3F",
@@ -837,7 +837,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 34,
-    post_url: ""
+    post_url: "https://twitter.com/ckelsallpxls/status/1397632377787019264"
   },
   {
     title: "Celadon Department Store 4F",
@@ -885,7 +885,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 36,
-    post_url: ""
+    post_url: "https://twitter.com/Dewndeym/status/1581798645988327424"
   },
   {
     title: "Celadon Department Store Roof",
@@ -909,7 +909,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 37,
-    post_url: ""
+    post_url: "https://twitter.com/batfeula/status/1412025973369831424"
   },
   {
     title: "Celadon Gym",
@@ -933,7 +933,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 38,
-    post_url: ""
+    post_url: "https://twitter.com/chamomeow/status/1379143059464712202"
   },
   {
     title: "Celadon Restaurant",
@@ -957,7 +957,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 39,
-    post_url: ""
+    post_url: "https://twitter.com/Rukvsin/status/1396270567553130499"
   },
   {
     title: "Cerulean Cave 1F",
@@ -981,7 +981,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 40,
-    post_url: ""
+    post_url: "https://twitter.com/AaronLyzerus/status/1571640504730755072"
   },
   {
     title: "Cerulean Cave 2F",
@@ -1005,7 +1005,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 41,
-    post_url: ""
+    post_url: "https://twitter.com/CheesyPaninie/status/1592159920778268673"
   },
   {
     title: "Cerulean Cave B1F",
@@ -1029,7 +1029,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 42,
-    post_url: ""
+    post_url: "https://twitter.com/MetaruPX/status/1571985311647014913"
   },
   {
     title: "Cinnabar Gym",
@@ -1053,7 +1053,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 43,
-    post_url: ""
+    post_url: "https://twitter.com/StrawPact/status/1394021785465729029"
   },
   {
     title: "Cinnabar Lab 1",
@@ -1077,7 +1077,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 44,
-    post_url: ""
+    post_url: "https://twitter.com/StrawPact/status/1584710347482857472"
   },
   {
     title: "Cinnabar Lab 2",
@@ -1101,7 +1101,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 45,
-    post_url: ""
+    post_url: "https://twitter.com/Sora_x2/status/1493407869899001858"
   },
   {
     title: "Cinnabar Lab 3",
@@ -1125,7 +1125,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 46,
-    post_url: ""
+    post_url: "https://twitter.com/willsmithx4/status/1624118075573272594"
   },
   {
     title: "Cinnabar Lab 4",
@@ -1149,7 +1149,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 47,
-    post_url: ""
+    post_url: "https://twitter.com/Quickalas/status/1389697477096448000"
   },
   {
     title: "Saffron City: Copycat's House",
@@ -1173,7 +1173,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 48,
-    post_url: ""
+    post_url: "https://twitter.com/yoYokaiy/status/1581335317675577345"
   },
   {
     title: "Fighting Dojo",
