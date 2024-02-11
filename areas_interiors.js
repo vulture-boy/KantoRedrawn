@@ -456,7 +456,7 @@ var interiorAreas = [
     post_url: "https://twitter.com/SarahBoevingArt/status/1369043895640854533"
   },
   {
-    title: "Underground (North-South)",
+    title: "Underground Pass (North-South)",
     ident: "underground_ns",
     artist: "@ckelsallpxls",
     artistImageOverride: "",
@@ -600,7 +600,7 @@ var interiorAreas = [
     post_url: "https://twitter.com/willsmithx4/status/1587559873583222784"
   },
   {
-    title: "S.S. Anne Captain's Quarters",
+    title: "S.S. Anne Captain’s Quarters",
     ident: "ss_anne_deck_capt",
     artist: "@1Sinvilla",
     artistImageOverride: "",
@@ -1152,7 +1152,7 @@ var interiorAreas = [
     post_url: "https://twitter.com/Quickalas/status/1389697477096448000"
   },
   {
-    title: "Saffron City: Copycat's House",
+    title: "Saffron City: Copycat’s House",
     ident: "copycat",
     artist: "@yoYokaiy",
     artistImageOverride: "",
@@ -1202,7 +1202,7 @@ var interiorAreas = [
   {
     title: "Elite Four 1: Lorelei",
     ident: "elite_four_1",
-    artist: "@ChJa",
+    artist: "@ChJaPx",
     artistImageOverride: "",
     url: "https://twitter.com/ChJaPx",
     animation: false,
@@ -1392,7 +1392,7 @@ var interiorAreas = [
     post_url: "https://twitter.com/Anima_nel/status/1420413273372073988"
   },
   {
-    title: "Mr. Fuji's House",
+    title: "Mr. Fuji’s House",
     ident: "fujis_place",
     artist: "@Rukvsin",
     artistImageOverride: "",
@@ -1776,15 +1776,15 @@ var interiorAreas = [
     post_url: "https://twitter.com/MetaruPX/status/1571985311647014913"
   },
   {
-    title: "Team Rocket's Hideout B1F",
+    title: "Team Rocket’s Hideout B1F",
     ident: "rocket_hideout_b1f",
-    artist: "HaywireJo",
+    artist: "@HaywireJo",
     artistImageOverride: "",
     url: "https://twitter.com/HaywireJo",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2448,
+      y: 2624
     },
     offset: {
       x: null,
@@ -1797,18 +1797,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 74,
-    post_url: ""
+    post_url: "https://twitter.com/HaywireJo/status/1375447945668141058"
   },
   {
-    title: "Team Rocket's Hideout B2F",
+    title: "Team Rocket’s Hideout B2F",
     ident: "rocket_hideout_b2f",
-    artist: "CoolSwift",
+    artist: "@xCoolswiftx",
     artistImageOverride: "",
     url: "https://twitter.com/xCoolswiftx",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2816,
+      y: 2624
     },
     offset: {
       x: null,
@@ -1821,18 +1821,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 75,
-    post_url: ""
+    post_url: "https://twitter.com/xCoolswiftx/status/1478422342925758468"
   },
   {
-    title: "Team Rocket's Hideout B3F",
+    title: "Team Rocket’s Hideout B3F",
     ident: "rocket_hideout_b3f",
-    artist: "KarlestonChew",
+    artist: "@KarlestonChew",
     artistImageOverride: "",
     url: "https://twitter.com/KarlestonChew",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2448,
+      y: 3088
     },
     offset: {
       x: null,
@@ -1845,18 +1845,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 76,
-    post_url: ""
+    post_url: "https://twitter.com/KarlestonChew/status/1584198472609460224"
   },
   {
-    title: "Team Rocket's Hideout B4F",
+    title: "Team Rocket’s Hideout B4F",
     ident: "rocket_hideout_b4f",
     artist: "Raspberry Milkshake",
-    artistImageOverride: "",
-    url: "https://twitter.com/RaspberryMilks1",
+    artistImageOverride: "RaspberryMilks1",
+    url: "https://www.instagram.com/raspberry__milkshake/",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2816,
+      y: 3088
     },
     offset: {
       x: null,
@@ -1869,18 +1869,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 77,
-    post_url: ""
+    post_url: "https://www.instagram.com/p/CTraVZFh0O-/"
   },
   {
-    title: "Safari Zone Warden",
+    title: "Safari Zone Warden’s House",
     ident: "safari_zone_warden",
-    artist: "chromegnomes",
+    artist: "@chromegnomes",
     artistImageOverride: "",
     url: "https://twitter.com/chromegnomes",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2176,
+      y: 4208
     },
     offset: {
       x: null,
@@ -1893,18 +1893,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 78,
-    post_url: ""
+    post_url: "https://twitter.com/chromegnomes/status/1582047140922413056"
   },
   {
     title: "Saffron Gym",
     ident: "saffron_gym",
-    artist: "HaywireJo",
+    artist: "@HaywireJo",
     artistImageOverride: "",
     url: "https://twitter.com/HaywireJo",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3856,
+      y: 1968
     },
     offset: {
       x: null,
@@ -1917,18 +1917,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 79,
-    post_url: ""
+    post_url: "https://twitter.com/HaywireJo/status/1392494780903354376"
   },
   {
     title: "Seafoam Island 1F",
     ident: "seafoam_1f",
-    artist: "Itri",
+    artist: "@ItriPixels",
     artistImageOverride: "",
     url: "https://twitter.com/ItriPixels",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 1776,
+      y: 5136
     },
     offset: {
       x: null,
@@ -1941,18 +1941,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 80,
-    post_url: ""
+    post_url: "https://twitter.com/ItriPixels/status/1552207410592358402"
   },
   {
     title: "Seafoam Island B1F",
     ident: "seafoam_b1f",
-    artist: "toaster",
+    artist: "@1000_toasters",
     artistImageOverride: "",
     url: "https://twitter.com/1000_toasters",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2272,
+      y: 5136
     },
     offset: {
       x: null,
@@ -1965,18 +1965,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 81,
-    post_url: ""
+    post_url: "https://twitter.com/1000_toasters/status/1579514224715276305"
   },
   {
     title: "Seafoam Island B2F",
     ident: "seafoam_b2f",
-    artist: "MetaruPX",
+    artist: "@MetaruPX",
     artistImageOverride: "",
     url: "https://twitter.com/MetaruPX",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 1776,
+      y: 5440
     },
     offset: {
       x: null,
@@ -1989,18 +1989,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 82,
-    post_url: ""
+    post_url: "https://twitter.com/MetaruPX/status/1593647830715043840"
   },
   {
     title: "Seafoam Island B3F",
     ident: "seafoam_b3f",
-    artist: "SJpixels",
+    artist: "@PixelsSj",
     artistImageOverride: "",
     url: "https://twitter.com/PixelsSj",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2272,
+      y: 5440
     },
     offset: {
       x: null,
@@ -2013,18 +2013,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 83,
-    post_url: ""
+    post_url: "https://twitter.com/PixelsSj/status/1486745830342148100"
   },
   {
     title: "Seafoam Island B4F",
     ident: "seafoam_b4f",
-    artist: "FoxxDrive",
+    artist: "@FoxxDrive",
     artistImageOverride: "",
     url: "https://twitter.com/FoxxDrive",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2768,
+      y: 5440
     },
     offset: {
       x: null,
@@ -2037,18 +2037,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 84,
-    post_url: ""
+    post_url: "https://twitter.com/FoxxDrive/status/1402329810874122250"
   },
   {
     title: "Silph Co. Lobby",
     ident: "silph_lobby",
-    artist: "Youngster Yammy",
+    artist: "@Yam_Boy_",
     artistImageOverride: "",
     url: "https://twitter.com/Yam_Boy_",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3808,
+      y: 2320
     },
     offset: {
       x: null,
@@ -2061,18 +2061,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 85,
-    post_url: ""
+    post_url: "https://twitter.com/Yam_Boy_/status/1501262106393382921"
   },
   {
     title: "Silph Co. 2F",
     ident: "silph_2f",
-    artist: "Ninety",
+    artist: "@NinetyDev",
     artistImageOverride: "",
     url: "https://twitter.com/NinetyDev",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3808,
+      y: 2624
     },
     offset: {
       x: null,
@@ -2085,18 +2085,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 86,
-    post_url: ""
+    post_url: "https://twitter.com/NinetyDev/status/1584356324883632128"
   },
   {
     title: "Silph Co. 3F",
     ident: "silph_3f",
-    artist: "willsmithx4",
+    artist: "@willsmithx4",
     artistImageOverride: "",
     url: "https://twitter.com/willsmithx4",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3809,
+      y: 2929
     },
     offset: {
       x: null,
@@ -2109,18 +2109,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 87,
-    post_url: ""
+    post_url: "https://twitter.com/willsmithx4/status/1580320982262480896"
   },
   {
     title: "Silph Co. 4F",
     ident: "silph_4f",
-    artist: "Jamie Drummond",
+    artist: "lamington__",
     artistImageOverride: "",
-    url: "https://twitter.com/jamiedrummondyo",
+    url: "https://twitter.com/lamington__",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3808,
+      y: 3230
     },
     offset: {
       x: null,
@@ -2133,18 +2133,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 88,
-    post_url: ""
+    post_url: "https://twitter.com/lamington__/status/1575426656142909441"
   },
   {
     title: "Silph Co. 5F",
     ident: "silph_5f",
-    artist: "willsmithx4",
+    artist: "@willsmithx4",
     artistImageOverride: "",
     url: "https://twitter.com/willsmithx4",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4304,
+      y: 2304
     },
     offset: {
       x: null,
@@ -2157,18 +2157,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 89,
-    post_url: ""
+    post_url: "https://twitter.com/willsmithx4/status/1582128207629029377"
   },
   {
     title: "Silph Co. 6F",
     ident: "silph_6f",
-    artist: "Lyzerus",
+    artist: "@AaronLyzerus",
     artistImageOverride: "",
     url: "https://twitter.com/AaronLyzerus",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4305,
+      y: 2625
     },
     offset: {
       x: null,
@@ -2181,18 +2181,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 90,
-    post_url: ""
+    post_url: "https://twitter.com/AaronLyzerus/status/1536568568300687360"
   },
   {
     title: "Silph Co. 7F",
     ident: "silph_7f",
-    artist: "Dax",
+    artist: "@Dax_zZ",
     artistImageOverride: "",
     url: "https://twitter.com/Dax_zZ",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4304,
+      y: 2928
     },
     offset: {
       x: null,
@@ -2205,18 +2205,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 91,
-    post_url: ""
+    post_url: "https://twitter.com/Dax_zZ/status/1450390774143766529"
   },
   {
     title: "Silph Co. 8F",
     ident: "silph_8f",
     artist: "(unknown artist)",
-    artistImageOverride: "",
+    artistImageOverride: "unknown_artist",
     url: "",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4304,
+      y: 3232
     },
     offset: {
       x: null,
@@ -2234,13 +2234,13 @@ var interiorAreas = [
   {
     title: "Silph Co. 9F",
     ident: "silph_9f",
-    artist: "Jamie Drummond",
+    artist: "@lamington__",
     artistImageOverride: "",
-    url: "https://twitter.com/jamiedrummondyo",
+    url: "https://twitter.com/lamington__",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4736,
+      y: 2928
     },
     offset: {
       x: null,
@@ -2253,18 +2253,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 93,
-    post_url: ""
+    post_url: "https://twitter.com/lamington__/status/1727790522545406066"
   },
   {
     title: "Silph Co. 10F",
     ident: "silph_10f",
-    artist: "Weny",
+    artist: "@weny_arts",
     artistImageOverride: "",
-    url: "https://www.instagram.com/weny_arts/",
+    url: "https://www.instagram.com/weny_arts",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4736,
+      y: 3232
     },
     offset: {
       x: null,
@@ -2277,18 +2277,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 94,
-    post_url: ""
+    post_url: "https://www.instagram.com/p/Ch-sB4bPgp3/"
   },
   {
     title: "Silph Co. 11F",
     ident: "silph_11f",
-    artist: "t3nshi",
+    artist: "@_t3nshi",
     artistImageOverride: "",
     url: "https://twitter.com/_t3nshi",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 5008,
+      y: 3232
     },
     offset: {
       x: null,
@@ -2303,16 +2303,16 @@ var interiorAreas = [
     order: 95,
     post_url: ""
   },
-  {
+    {
     title: "S.S. Anne Room 1",
     ident: "ss_anne_room_1",
-    artist: "(unknown artist)",
+    artist: "@SarahBoevingArt",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/SarahBoevingArt",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3776,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2325,18 +2325,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 96,
-    post_url: ""
+    post_url: "https://twitter.com/SarahBoevingArt/status/1571154830877495298"
   },
   {
     title: "S.S. Anne Room 2",
     ident: "ss_anne_room_2",
-    artist: "(unknown artist)",
+    artist: "@Paprika_d",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/Paprika_d",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3888,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2354,13 +2354,13 @@ var interiorAreas = [
   {
     title: "S.S. Anne Room 3",
     ident: "ss_anne_room_3",
-    artist: "(unknown artist)",
+    artist: "@gif_not_jif",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/gif_not_jif",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4000,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2373,18 +2373,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 98,
-    post_url: ""
+    post_url: "https://twitter.com/gif_not_jif/status/1420038913071226884"
   },
   {
     title: "S.S. Anne Room 4",
     ident: "ss_anne_room_4",
-    artist: "(unknown artist)",
+    artist: "@incrediblemaker",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/incrediblemaker",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4112,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2397,18 +2397,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 99,
-    post_url: ""
+    post_url: "https://twitter.com/incrediblemaker/status/1436620766913642496"
   },
   {
     title: "S.S. Anne Room 5",
     ident: "ss_anne_room_5",
-    artist: "(unknown artist)",
+    artist: "@HaywireJo",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/HaywireJo",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4224,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2421,18 +2421,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 100,
-    post_url: ""
+    post_url: "https://twitter.com/HaywireJo/status/1388991608436281347"
   },
   {
     title: "S.S. Anne Room 6",
     ident: "ss_anne_room_6",
-    artist: "(unknown artist)",
+    artist: "@chromegnomes",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/chromegnomes",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4336,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2445,18 +2445,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 101,
-    post_url: ""
+    post_url: "https://twitter.com/chromegnomes/status/1436433097118167045"
   },
   {
     title: "S.S. Anne Room 7",
     ident: "ss_anne_room_7",
-    artist: "(unknown artist)",
+    artist: "@ArtOfLaurel",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/ArtOfLaurel",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4496,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2469,18 +2469,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 102,
-    post_url: ""
+    post_url: "https://twitter.com/ArtOfLaurel/status/1537039696282505216"
   },
   {
     title: "S.S. Anne Room 8",
     ident: "ss_anne_room_8",
-    artist: "(unknown artist)",
+    artist: "@thoughtwavelet",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/thoughtwavelet",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4608,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2498,13 +2498,13 @@ var interiorAreas = [
   {
     title: "S.S. Anne Room 9",
     ident: "ss_anne_room_9",
-    artist: "(unknown artist)",
+    artist: "@Foofarawr",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/foofarawr",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4720,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2517,18 +2517,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 104,
-    post_url: ""
+    post_url: "https://twitter.com/foofarawr/status/1582841943364579330"
   },
   {
     title: "S.S. Anne Room 10",
     ident: "ss_anne_room_10",
-    artist: "(unknown artist)",
+    artist: "@BrandoParmelee",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/BrandoParmelee/",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4832,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2541,18 +2541,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 105,
-    post_url: ""
+    post_url: "https://twitter.com/BrandoParmelee/status/1633188775080722433"
   },
   {
     title: "S.S. Anne Room 11",
     ident: "ss_anne_room_11",
-    artist: "(unknown artist)",
+    artist: "@Etta3413",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/Etta3413",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4944,
+      y: 3664
     },
     offset: {
       x: null,
@@ -2565,18 +2565,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 106,
-    post_url: ""
+    post_url: "https://twitter.com/Etta3413/status/1586863387991887872"
   },
-  {
+    {
     title: "S.S. Anne Room 12",
     ident: "ss_anne_room_12",
-    artist: "(unknown artist)",
+    artist: "@Yam_Boy_",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/Yam_Boy_",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4416,
+      y: 4080
     },
     offset: {
       x: null,
@@ -2589,18 +2589,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 107,
-    post_url: ""
+    post_url: "https://twitter.com/Yam_Boy_/status/1465512851070664707"
   },
   {
     title: "S.S. Anne Room 13",
     ident: "ss_anne_room_13",
-    artist: "(unknown artist)",
+    artist: "@MetaruPX",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/MetaruPX",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4528,
+      y: 4080
     },
     offset: {
       x: null,
@@ -2613,18 +2613,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 108,
-    post_url: ""
+    post_url: "https://twitter.com/MetaruPX/status/1395020694715518981"
   },
   {
     title: "S.S. Anne Room 14",
     ident: "ss_anne_room_14",
-    artist: "(unknown artist)",
+    artist: "@ItriPixels",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/ItriPixels",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4640,
+      y: 4080
     },
     offset: {
       x: null,
@@ -2637,18 +2637,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 109,
-    post_url: ""
+    post_url: "https://twitter.com/ItriPixels/status/1432358802989502464"
   },
   {
     title: "S.S. Anne Room 15",
     ident: "ss_anne_room_15",
-    artist: "(unknown artist)",
+    artist: "@Polyducks",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/Polyducks",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4752,
+      y: 4080
     },
     offset: {
       x: null,
@@ -2661,18 +2661,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 110,
-    post_url: ""
+    post_url: "https://twitter.com/Polyducks/status/1445043514102927370"
   },
   {
     title: "S.S. Anne Room 16",
     ident: "ss_anne_room_16",
-    artist: "(unknown artist)",
+    artist: "@TheMightyAndre",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/TheMightyAndre",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4864,
+      y: 4080
     },
     offset: {
       x: null,
@@ -2685,18 +2685,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 111,
-    post_url: ""
+    post_url: "https://twitter.com/PixelAndre_/status/1436804535943667720"
   },
   {
     title: "S.S. Anne Room 17",
     ident: "ss_anne_room_17",
-    artist: "(unknown artist)",
+    artist: "@emmazapan",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/emmazapan",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4976,
+      y: 4080
     },
     offset: {
       x: null,
@@ -2714,13 +2714,13 @@ var interiorAreas = [
   {
     title: "Saffron City: Train Station",
     ident: "train_station",
-    artist: "Sukinapan",
+    artist: "@sukinapan",
     artistImageOverride: "",
     url: "https://www.instagram.com/sukinapan/",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3280,
+      y: 1840
     },
     offset: {
       x: null,
@@ -2733,18 +2733,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 113,
-    post_url: ""
+    post_url: "https://twitter.com/sukinapan/status/1387436451445440512"
   },
   {
-    title: "Underground (East-West)",
+    title: "Underground Pass (East-West)",
     ident: "underground_we",
-    artist: "MetaruPX",
+    artist: "@MetaruPX",
     artistImageOverride: "",
     url: "https://twitter.com/MetaruPX",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2960,
+      y: 2176
     },
     offset: {
       x: null,
@@ -2757,18 +2757,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 114,
-    post_url: ""
+    post_url: "https://twitter.com/MetaruPX/status/1381995959517843457"
   },
   {
     title: "Viridian Gym",
     ident: "viridian_gym",
-    artist: "manelzin",
+    artist: "@Anima_nel",
     artistImageOverride: "",
     url: "https://twitter.com/Anima_nel",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 944,
+      y: 3085
     },
     offset: {
       x: null,
@@ -2786,13 +2786,13 @@ var interiorAreas = [
   {
     title: "Victory Road 1F",
     ident: "victory_road_1f",
-    artist: "Tanu",
+    artist: "@tanu_pxl",
     artistImageOverride: "",
     url: "https://twitter.com/tanu_pxl",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 32,
+      y: 1632
     },
     offset: {
       x: null,
@@ -2805,18 +2805,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 116,
-    post_url: ""
+    post_url: "https://twitter.com/tanu_pxl/status/1627862008325623808"
   },
   {
     title: "Victory Road 2F",
     ident: "victory_road_2f",
-    artist: "Sarah Boeving",
+    artist: "@pixelgroover",
     artistImageOverride: "",
-    url: "https://twitter.com/SarahBoevingArt",
+    url: "https://twitter.com/pixelgroover",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 32,
+      y: 1248
     },
     offset: {
       x: null,
@@ -2829,18 +2829,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 117,
-    post_url: ""
+    post_url: "https://twitter.com/pixelgroover/status/1541959375757230081"
   },
   {
     title: "Victory Road 3F",
     ident: "victory_road_3f",
-    artist: "Pixelgroover",
+    artist: "@SarahBoevingArt",
     artistImageOverride: "",
-    url: "https://twitter.com/pixelgroover",
+    url: "https://twitter.com/SarahBoevingArt",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 32,
+      y: 864
     },
     offset: {
       x: null,
@@ -2852,7 +2852,8 @@ var interiorAreas = [
     type: "hiking",
     zoom: 2,
     teleporters: [],
-    order: 118
+    order: 118,
+	post_url: "https://twitter.com/SarahBoevingArt/status/1442498574005067793"
   },
 ] 
   
