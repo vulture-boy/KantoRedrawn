@@ -110,19 +110,25 @@ a{
 .menu__tab{
     cursor: pointer;
     background-color: #222222;
-    border: 1px solid 222222;
     color:#aaa;
     display:block;
+    size: 16;
     flex-grow:1;
     padding:10px;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
-    border-bottom:0;
-    border-color:#222222;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border: 0px
 }
-.menu__tab.active, .menu__tab:hover{
+.menu__tab.active{
     background-color:#161616;
-    border-color:#222222;
+    color:#ddd;
+    font-weight:bold;
+}
+
+.menu__tab:hover{
+    background-color:#303030;
     color:#ddd;
 }
 
