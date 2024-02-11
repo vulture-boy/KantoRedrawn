@@ -50,7 +50,7 @@ var interiorAreas = [
   {
     title: "Professor Oak’s Lab",
     ident: "oaks_lab",
-    artist: "Nekofresa",
+    artist: "@Nekofresa",
     artistImageOverride: "",
     url: "https://twitter.com/nekofresa",
     animation: false,
@@ -74,7 +74,7 @@ var interiorAreas = [
   {
     title: "PokéMart",
     ident: "pokemart",
-    artist: "tanu_pxl",
+    artist: "@tanu_pxl",
     artistImageOverride: "",
     url: "https://twitter.com/tanu_pxl",
     animation: false,
@@ -98,12 +98,12 @@ var interiorAreas = [
   {
     title: "Pokémon Center",
     ident: "pokecenter",
-    artist: "King_Worrell",
+    artist: "@King_Worrell",
     artistImageOverride: "",
     url: "https://twitter.com/King_Worrell",
     animation: false,
     point: {
-      x: 961,
+      x: 960,
       y: 3792
     },
     offset: {
@@ -122,13 +122,13 @@ var interiorAreas = [
   {
     title: "Trade Center",
     ident: "trade_center",
-    artist: "MetaruPX",
+    artist: "@MetaruPX",
     artistImageOverride: "",
     url: "https://twitter.com/MetaruPX",
     animation: false,
     point: {
-      x: 992,
-      y: 3648
+      x: 960,
+      y: 3632
     },
     offset: {
       x: null,
@@ -146,7 +146,7 @@ var interiorAreas = [
   {
     title: "Pokémon Academy",
     ident: "pokemon_school",
-    artist: "StrawPact",
+    artist: "@StrawPact",
     artistImageOverride: "",
     url: "https://twitter.com/StrawPact",
     animation: false,
@@ -170,7 +170,7 @@ var interiorAreas = [
   {
     title: "Trainer House 1F",
     ident: "trainer_house_1f",
-    artist: "lamington__",
+    artist: "@lamington__",
     artistImageOverride: "",
     url: "https://twitter.com/lamington__",
     animation: false,
@@ -194,7 +194,7 @@ var interiorAreas = [
   {
     title: "Trainer House B1F",
     ident: "trainer_house_b1f",
-    artist: "StrawPact",
+    artist: "@StrawPact",
     artistImageOverride: "",
     url: "https://twitter.com/StrawPact",
     animation: false,
@@ -218,13 +218,13 @@ var interiorAreas = [
   {
     title: "Pewter Museum 1F",
     ident: "museum_1f",
-    artist: "ckelsallpxls",
+    artist: "@ckelsallpxls",
     artistImageOverride: "",
     url: "https://twitter.com/ckelsallpxls",
     animation: false,
     point: {
-      x: 752,
-      y: 1008
+      x: 768,
+      y: 1168
     },
     offset: {
       x: null,
@@ -242,13 +242,13 @@ var interiorAreas = [
   {
     title: "Pewter Museum 2F",
     ident: "museum_2f",
-    artist: "ckelsallpxls",
+    artist: "@ckelsallpxls",
     artistImageOverride: "",
     url: "https://twitter.com/ckelsallpxls",
     animation: false,
     point: {
-      x: 752,
-      y: 1008
+      x: 768,
+      y: 1024
     },
     offset: {
       x: null,
@@ -266,7 +266,7 @@ var interiorAreas = [
   {
     title: "Pewter Gym",
     ident: "pewter_gym",
-    artist: "Yam_Boy_",
+    artist: "@Yam_Boy_",
     artistImageOverride: "",
     url: "https://twitter.com/Yam_Boy_",
     animation: false,
@@ -290,7 +290,7 @@ var interiorAreas = [
   {
     title: "Mt. Moon 1F",
     ident: "mt_moon_1f",
-    artist: "_Mechano_",
+    artist: "@_Mechano_",
     artistImageOverride: "",
     url: "https://twitter.com/_Mechano_",
     animation: false,
@@ -314,7 +314,7 @@ var interiorAreas = [
   {
     title: "Mt. Moon B1F",
     ident: "mt_moon_b1f",
-    artist: "Foofarawr",
+    artist: "@Foofarawr",
     artistImageOverride: "",
     url: "https://twitter.com/foofarawr",
     animation: false,
@@ -338,7 +338,7 @@ var interiorAreas = [
   {
     title: "Mt. Moon B2F",
     ident: "mt_moon_b2f",
-    artist: "MonsterIndieDev",
+    artist: "@MonsterIndieDev",
     artistImageOverride: "",
     url: "https://twitter.com/MonsterIndieDev",
     animation: false,
@@ -362,7 +362,7 @@ var interiorAreas = [
   {
     title: "Bike Shop",
     ident: "bike_shop",
-    artist: "Hapiel",
+    artist: "@Hapiel",
     artistImageOverride: "",
     url: "https://twitter.com/Hapiel",
     animation: false,
@@ -386,7 +386,7 @@ var interiorAreas = [
   {
     title: "Burglarized House",
     ident: "trashed_house",
-    artist: "VCorbi",
+    artist: "@VCorbi",
     artistImageOverride: "",
     url: "https://twitter.com/VCorbi",
     animation: false,
@@ -410,7 +410,7 @@ var interiorAreas = [
   {
     title: "Cerulean Gym",
     ident: "cerulean_gym",
-    artist: "JuliaGoodish",
+    artist: "@JuliaGoodish",
     artistImageOverride: "",
     url: "https://twitter.com/JuliaGoodish",
     animation: false,
@@ -434,12 +434,12 @@ var interiorAreas = [
   {
     title: "Sea Cottage (Bill’s Lab)",
     ident: "bill_lab",
-    artist: "SarahBoevingArt",
+    artist: "@SarahBoevingArt",
     artistImageOverride: "",
     url: "https://twitter.com/SarahBoevingArt",
     animation: false,
     point: {
-      x: 4704,
+      x: 4688,
       y: 272
     },
     offset: {
@@ -458,12 +458,12 @@ var interiorAreas = [
   {
     title: "Underground (North-South)",
     ident: "underground_ns",
-    artist: "ckelsallpxls",
+    artist: "@ckelsallpxls",
     artistImageOverride: "",
     url: "https://twitter.com/ckelsallpxls",
     animation: false,
     point: {
-      x: 3648,
+      x: 3632,
       y: 2320
     },
     offset: {
@@ -482,7 +482,7 @@ var interiorAreas = [
   {
     title: "Pokémon Fan Club",
     ident: "pokemon_fanclub",
-    artist: "PizzaFrankza",
+    artist: "@PizzaFrankza",
     artistImageOverride: "",
     url: "https://twitter.com/PizzaFrankza",
     animation: false,
@@ -506,7 +506,7 @@ var interiorAreas = [
   {
     title: "Vermilion Gym",
     ident: "vermilion_gym",
-    artist: "Anima_nel",
+    artist: "@Anima_nel",
     artistImageOverride: "",
     url: "https://twitter.com/Anima_nel",
     animation: false,
@@ -528,15 +528,15 @@ var interiorAreas = [
     post_url: "https://twitter.com/Anima_nel/status/1483078828188745733"
   },
   {
-    title: "S.S. Anne Hallway & Kitchen",
+    title: "S.S. Anne Kitchen",
     ident: "ss_anne_kitchen",
-   artist: "ItriPixels",
+   artist: "@ItriPixels",
     artistImageOverride: "",
     url: "https://twitter.com/ItriPixels",
     animation: false,
     point: {
       x: 3728,
-      y: 3632
+      y: 3792
     },
     offset: {
       x: null,
@@ -552,15 +552,15 @@ var interiorAreas = [
     post_url: "https://twitter.com/ItriPixels/status/1422932800374812673"
   },
   {
-    title: "S.S. Anne Halls",
+    title: "S.S. Anne Hallways",
     ident: "ss_anne_halls",
-    artist: "Nekofresa",
+    artist: "@Nekofresa",
     artistImageOverride: "",
     url: "https://twitter.com/nekofresa",
     animation: false,
     point: {
       x: 4416,
-      y: 3696
+      y: 3856
     },
     offset: {
       x: null,
@@ -578,13 +578,13 @@ var interiorAreas = [
   {
     title: "S.S. Anne Deck",
     ident: "ss_anne_deck",
-    artist: "willsmithx4",
+    artist: "@willsmithx4",
     artistImageOverride: "",
     url: "https://twitter.com/willsmithx4",
     animation: false,
     point: {
       x: 2880,
-      y: 3632
+      y: 3936
     },
     offset: {
       x: null,
@@ -602,13 +602,13 @@ var interiorAreas = [
   {
     title: "S.S. Anne Captain's Quarters",
     ident: "ss_anne_deck_capt",
-    artist: "1Sinvilla",
+    artist: "@1Sinvilla",
     artistImageOverride: "",
     url: "https://twitter.com/1Sinvilla",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3248,
+      y: 4064
     },
     offset: {
       x: null,
@@ -626,7 +626,7 @@ var interiorAreas = [
   {
     title: "Diglett’s Tunnel",
     ident: "digletts_cave",
-    artist: "PokemonEstelar",
+    artist: "@PokemonEstelar",
     artistImageOverride: "",
     url: "https://twitter.com/PokemonEstelar",
     animation: false,
@@ -650,13 +650,13 @@ var interiorAreas = [
   {
     title: "Celadon Condos 1F",
     ident: "celadon_condos_1f",
-    artist: "emmazapan",
+    artist: "@emmazapan",
     artistImageOverride: "",
     url: "https://twitter.com/emmazapan",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2816,
+      y: 2208
     },
     offset: {
       x: null,
@@ -674,13 +674,13 @@ var interiorAreas = [
   {
     title: "Celadon Condos 2F",
     ident: "celadon_condos_2f",
-    artist: "scribulls",
+    artist: "@scribulls",
     artistImageOverride: "",
     url: "https://twitter.com/scribulls",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2816,
+      y: 2032
     },
     offset: {
       x: null,
@@ -698,13 +698,13 @@ var interiorAreas = [
   {
     title: "Celadon Condos 3F (Game Freak)",
     ident: "celadon_condos_gamefreak",
-    artist: "MetaruPX",
+    artist: "@MetaruPX",
     artistImageOverride: "",
     url: "https://twitter.com/MetaruPX",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2816,
+      y: 1856
     },
     offset: {
       x: null,
@@ -722,13 +722,13 @@ var interiorAreas = [
   {
     title: "Celadon Condos Penthouse",
     ident: "celadon_condos_penthouse",
-    artist: "diamchan",
+    artist: "@diamchan",
     artistImageOverride: "",
     url: "https://twitter.com/diamchan",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2816,
+      y: 1520
     },
     offset: {
       x: null,
@@ -746,13 +746,13 @@ var interiorAreas = [
   {
     title: "Celadon Condos Roof",
     ident: "celadon_condos_roof",
-    artist: "KarlestonChew",
+    artist: "@KarlestonChew",
     artistImageOverride: "",
     url: "https://twitter.com/KarlestonChew",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2816,
+      y: 1665
     },
     offset: {
       x: null,
@@ -770,13 +770,13 @@ var interiorAreas = [
   {
     title: "Celadon Department Store 1F",
     ident: "celadon_dept_1f",
-    artist: "diamchan",
+    artist: "@diamchan",
     artistImageOverride: "",
     url: "https://twitter.com/diamchan",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2112,
+      y: 2416
     },
     offset: {
       x: null,
@@ -794,13 +794,13 @@ var interiorAreas = [
   {
     title: "Celadon Department Store 2F",
     ident: "celadon_dept_2f",
-    artist: "AaronLyzerus",
+    artist: "@AaronLyzerus",
     artistImageOverride: "",
     url: "https://twitter.com/AaronLyzerus",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2112,
+      y: 2272
     },
     offset: {
       x: null,
@@ -818,13 +818,13 @@ var interiorAreas = [
   {
     title: "Celadon Department Store 3F",
     ident: "celadon_dept_3f",
-    artist: "ckelsallpxls",
+    artist: "@ckelsallpxls",
     artistImageOverride: "",
     url: "https://twitter.com/ckelsallpxls",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2112,
+      y: 2128
     },
     offset: {
       x: null,
@@ -842,13 +842,13 @@ var interiorAreas = [
   {
     title: "Celadon Department Store 4F",
     ident: "celadon_dept_4f",
-    artist: "Foofarawr",
+    artist: "@Foofarawr",
     artistImageOverride: "",
     url: "https://twitter.com/foofarawr",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2112,
+      y: 1984
     },
     offset: {
       x: null,
@@ -861,18 +861,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 35,
-    post_url: ""
+    post_url: "https://twitter.com/foofarawr/status/1530914594042089473"
   },
   {
     title: "Celadon Department Store 5F",
     ident: "celadon_dept_5f",
-    artist: "Dewndeym",
+    artist: "@Dewndeym",
     artistImageOverride: "",
     url: "https://twitter.com/Dewndeym",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2112,
+      y: 1840
     },
     offset: {
       x: null,
@@ -890,13 +890,13 @@ var interiorAreas = [
   {
     title: "Celadon Department Store Roof",
     ident: "celadon_dept_roof",
-    artist: "Batfeula",
+    artist: "@Batfeula",
     artistImageOverride: "",
     url: "https://twitter.com/batfeula",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2112,
+      y: 1568
     },
     offset: {
       x: null,
@@ -914,13 +914,13 @@ var interiorAreas = [
   {
     title: "Celadon Gym",
     ident: "celadon_gym",
-    artist: "marina",
+    artist: "@chamomeow",
     artistImageOverride: "",
     url: "https://twitter.com/chamomeow",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2448,
+      y: 2320
     },
     offset: {
       x: null,
@@ -938,13 +938,13 @@ var interiorAreas = [
   {
     title: "Celadon Restaurant",
     ident: "celadon_restaurant",
-    artist: "Rukasin",
+    artist: "@Rukvsin",
     artistImageOverride: "",
-    url: "https://www.instagram.com/rukasinmonos/",
+    url: "https://twitter.com/Rukvsin",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2960,
+      y: 2368
     },
     offset: {
       x: null,
@@ -962,13 +962,13 @@ var interiorAreas = [
   {
     title: "Cerulean Cave 1F",
     ident: "cerulean_cave_1f",
-    artist: "Lyzerus",
+    artist: "@AaronLyzerus",
     artistImageOverride: "",
     url: "https://twitter.com/AaronLyzerus",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3120,
+      y: 704
     },
     offset: {
       x: null,
@@ -986,13 +986,13 @@ var interiorAreas = [
   {
     title: "Cerulean Cave 2F",
     ident: "cerulean_cave_2f",
-    artist: "CheesyPaninie",
+    artist: "@CheesyPaninie",
     artistImageOverride: "",
     url: "https://twitter.com/CheesyPaninie",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3120,
+      y: 368
     },
     offset: {
       x: null,
@@ -1010,13 +1010,13 @@ var interiorAreas = [
   {
     title: "Cerulean Cave B1F",
     ident: "cerulean_cave_b1f",
-    artist: "Jame",
+    artist: "@Chibi_Jame",
     artistImageOverride: "",
     url: "https://twitter.com/Chibi_Jame",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3120,
+      y: 32
     },
     offset: {
       x: null,
@@ -1034,13 +1034,13 @@ var interiorAreas = [
   {
     title: "Cinnabar Gym",
     ident: "cinnabar_gym",
-    artist: "StrawB",
+    artist: "@StrawPact",
     artistImageOverride: "",
     url: "https://twitter.com/StrawPact",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 1056,
+      y: 5216
     },
     offset: {
       x: null,
@@ -1058,13 +1058,13 @@ var interiorAreas = [
   {
     title: "Cinnabar Lab 1",
     ident: "cinnabar_lab_1",
-    artist: "StrawB",
+    artist: "@StrawPact",
     artistImageOverride: "",
     url: "https://twitter.com/StrawPact",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 528,
+      y: 5632
     },
     offset: {
       x: null,
@@ -1082,13 +1082,13 @@ var interiorAreas = [
   {
     title: "Cinnabar Lab 2",
     ident: "cinnabar_lab_2",
-    artist: "Sora",
+    artist: "@Sora_x2",
     artistImageOverride: "",
     url: "https://twitter.com/Sora_x2",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 672,
+      y: 5488
     },
     offset: {
       x: null,
@@ -1106,13 +1106,13 @@ var interiorAreas = [
   {
     title: "Cinnabar Lab 3",
     ident: "cinnabar_lab_3",
-    artist: "willsmithx4",
+    artist: "@willsmithx4",
     artistImageOverride: "",
     url: "https://twitter.com/willsmithx4",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 528,
+      y: 5488
     },
     offset: {
       x: null,
@@ -1130,13 +1130,13 @@ var interiorAreas = [
   {
     title: "Cinnabar Lab 4",
     ident: "cinnabar_lab_4",
-    artist: "Quickalas",
+    artist: "@Quickalas",
     artistImageOverride: "",
     url: "https://twitter.com/Quickalas",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 816,
+      y: 5488
     },
     offset: {
       x: null,
@@ -1154,13 +1154,13 @@ var interiorAreas = [
   {
     title: "Saffron City: Copycat's House",
     ident: "copycat",
-    artist: "Yokaiy",
+    artist: "@yoYokaiy",
     artistImageOverride: "",
     url: "https://twitter.com/yoYokaiy",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3488,
+      y: 2320
     },
     offset: {
       x: null,
@@ -1178,13 +1178,13 @@ var interiorAreas = [
   {
     title: "Fighting Dojo",
     ident: "dojo",
-    artist: "(unknown artist)",
+    artist: "@Atticus__Finn",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/Atticus__Finn",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 3680,
+      y: 1968
     },
     offset: {
       x: null,
@@ -1197,18 +1197,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 49,
-    post_url: ""
+    post_url: "https://twitter.com/Atticus__Finn/status/1412503973442080772"
   },
   {
     title: "Elite Four 1: Lorelei",
     ident: "elite_four_1",
-    artist: "ChJa",
+    artist: "@ChJa",
     artistImageOverride: "",
     url: "https://twitter.com/ChJaPx",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 64,
+      y: 400
     },
     offset: {
       x: null,
@@ -1221,18 +1221,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 50,
-    post_url: ""
+    post_url: "https://twitter.com/ChJaPx/status/1555261163973246976"
   },
   {
     title: "Elite Four 2: Bruno",
     ident: "elite_four_2",
-    artist: "Pencilwing",
+    artist: "@Pencilwing",
     artistImageOverride: "",
     url: "https://twitter.com/Pencilwing",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 240,
+      y: 400
     },
     offset: {
       x: null,
@@ -1245,18 +1245,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 51,
-    post_url: ""
+    post_url: "https://twitter.com/Pencilwing/status/1379556431649775622"
   },
   {
     title: "Elite Four 3: Agatha",
     ident: "elite_four_3",
-    artist: "Danielle",
+    artist: "@Woodspixl_",
     artistImageOverride: "",
     url: "https://twitter.com/Woodspixl_",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 416,
+      y: 400
     },
     offset: {
       x: null,
@@ -1269,18 +1269,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 52,
-    post_url: ""
+    post_url: "https://twitter.com/Woodspixl_/status/1532674898660888578"
   },
   {
     title: "Elite Four 4: Lance",
     ident: "elite_four_4",
-    artist: "Tyltal",
+    artist: "@tyltal",
     artistImageOverride: "",
     url: "https://twitter.com/tyltal",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 592,
+      y: 400
     },
     offset: {
       x: null,
@@ -1293,18 +1293,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 53,
-    post_url: ""
+    post_url: "https://twitter.com/tyltal/status/1395401429452533762"
   },
   {
     title: "Elite Four Champion: Blue",
     ident: "elite_four_champ",
-    artist: "Batfeula",
+    artist: "@Batfeula",
     artistImageOverride: "",
     url: "https://twitter.com/batfeula",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 624,
+      y: 256
     },
     offset: {
       x: null,
@@ -1317,18 +1317,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 54,
-    post_url: ""
+    post_url: "https://twitter.com/batfeula/status/1382751861896265730"
   },
   {
     title: "Hall of Fame",
     ident: "hall_of_fame",
-    artist: "Batfeula",
+    artist: "@Batfeula",
     artistImageOverride: "",
     url: "https://twitter.com/batfeula",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 608,
+      y: 112
     },
     offset: {
       x: null,
@@ -1341,18 +1341,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 55,
-    post_url: ""
+    post_url: "https://twitter.com/batfeula/status/1372234348099948551"
   },
   {
-    title: "Indigo Center",
+    title: "Indigo Plateau Pokémon Center",
     ident: "indigo_center",
-    artist: "Hut",
+    artist: "@huttaburger",
     artistImageOverride: "",
     url: "https://twitter.com/huttaburger",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 64,
+      y: 608
     },
     offset: {
       x: null,
@@ -1365,18 +1365,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 56,
-    post_url: ""
+    post_url: "https://twitter.com/huttaburger/status/1368656272279617538"
   },
   {
     title: "Fuchsia Gym",
     ident: "fuchsia_gym",
-    artist: "manelzin",
+    artist: "@Anima_nel",
     artistImageOverride: "",
     url: "https://twitter.com/Anima_nel",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2624,
+      y: 4800
     },
     offset: {
       x: null,
@@ -1389,18 +1389,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 57,
-    post_url: ""
+    post_url: "https://twitter.com/Anima_nel/status/1420413273372073988"
   },
   {
-    title: "Fuji's Place",
+    title: "Mr. Fuji's House",
     ident: "fujis_place",
-    artist: "Rukasin",
+    artist: "@Rukvsin",
     artistImageOverride: "",
-    url: "https://www.instagram.com/rukasinmonos/",
+    url: "https://twitter.com/Rukvsin",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4688,
+      y: 1936
     },
     offset: {
       x: null,
@@ -1413,18 +1413,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 58,
-    post_url: ""
+    post_url: "https://twitter.com/Rukvsin/status/1387405562980311045"
   },
   {
     title: "Game Corner",
     ident: "game_corner",
-    artist: "Danielle",
+    artist: "@Woodspixl_",
     artistImageOverride: "",
     url: "https://twitter.com/Woodspixl_",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 2625,
+      y: 2384
     },
     offset: {
       x: null,
@@ -1440,15 +1440,15 @@ var interiorAreas = [
     post_url: ""
   },
   {
-    title: "Mansion 1F",
+    title: "Pokémon Mansion 1F",
     ident: "mansion_1f",
-    artist: "Kobidias",
+    artist: "@LovetheLoveland",
     artistImageOverride: "",
     url: "https://twitter.com/LovetheLoveland",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 32,
+      y: 5280
     },
     offset: {
       x: null,
@@ -1466,13 +1466,13 @@ var interiorAreas = [
   {
     title: "Mansion 2F",
     ident: "mansion_2f",
-    artist: "Pixelgroover",
+    artist: "@Pixelgroover",
     artistImageOverride: "",
     url: "https://twitter.com/pixelgroover",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 32,
+      y: 4816
     },
     offset: {
       x: null,
@@ -1485,18 +1485,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 61,
-    post_url: ""
+    post_url: "https://twitter.com/pixelgroover/status/1612964349747789826"
   },
   {
     title: "Mansion 3F",
     ident: "mansion_3f",
-    artist: "(unknown artist)",
+    artist: "@Blindeduif",
     artistImageOverride: "",
-    url: "",
+    url: "https://twitter.com/blindeduif",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 32,
+      y: 4512
     },
     offset: {
       x: null,
@@ -1509,18 +1509,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 62,
-    post_url: ""
+    post_url: "https://twitter.com/blindeduif/status/1756367576118984990"
   },
   {
     title: "Mansion B1F",
     ident: "mansion_B1f",
-    artist: "Liam Cuthbert",
+    artist: "@MorlockArt",
     artistImageOverride: "",
     url: "https://twitter.com/MorlockArt",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 32,
+      y: 4048
     },
     offset: {
       x: null,
@@ -1533,18 +1533,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 63,
-    post_url: ""
+    post_url: "https://twitter.com/MorlockArt/status/1529176430411755520"
   },
   {
     title: "Pokémon Tower 1F",
     ident: "pkmn_tower_1f",
-    artist: "PixRinn",
+    artist: "@SmarmyElf",
     artistImageOverride: "",
     url: "https://twitter.com/SmarmyElf",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 5184,
+      y: 1904
     },
     offset: {
       x: null,
@@ -1557,18 +1557,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 64,
-    post_url: ""
+    post_url: "https://twitter.com/SmarmyElf/status/1455969453439701000"
   },
   {
     title: "Pokémon Tower 2F",
     ident: "pkmn_tower_2f",
-    artist: "marina",
+    artist: "@chamomeow",
     artistImageOverride: "",
     url: "https://twitter.com/chamomeow",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 5184,
+      y: 2200
     },
     offset: {
       x: null,
@@ -1581,18 +1581,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 65,
-    post_url: ""
+    post_url: "https://twitter.com/chamomeow/status/1578435741650063361"
   },
   {
     title: "Pokémon Tower 3F",
     ident: "pkmn_tower_3f",
-    artist: "Daydreamer",
+    artist: "@Daydream_Stream",
     artistImageOverride: "",
     url: "https://twitter.com/Daydream_Stream",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 5184,
+      y: 2512
     },
     offset: {
       x: null,
@@ -1605,18 +1605,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 66,
-    post_url: ""
+    post_url: "https://twitter.com/Daydream_Stream/status/1376915294040567815"
   },
   {
     title: "Pokémon Tower 4F",
     ident: "pkmn_tower_4f",
-    artist: "CoolSwift",
+    artist: "@xCoolswiftx",
     artistImageOverride: "",
     url: "https://twitter.com/xCoolswiftx",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 5184,
+      y: 2816
     },
     offset: {
       x: null,
@@ -1629,18 +1629,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 67,
-    post_url: ""
+    post_url: "https://twitter.com/xCoolswiftx/status/1402864873416110083"
   },
   {
     title: "Pokémon Tower 5F",
     ident: "pkmn_tower_5f",
-    artist: "marian",
+    artist: "@_discocats",
     artistImageOverride: "",
     url: "https://twitter.com/_discocats",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4880,
+      y: 1904
     },
     offset: {
       x: null,
@@ -1653,18 +1653,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 68,
-    post_url: ""
+    post_url: "https://twitter.com/_discocats/status/1405901024284581891"
   },
   {
     title: "Pokémon Tower 6F",
     ident: "pkmn_tower_6f",
     artist: "Beetroot Paul",
-    artistImageOverride: "",
+    artistImageOverride: "beetrootpaul",
     url: "https://beetrootpaul.com/",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4880,
+      y: 2208
     },
     offset: {
       x: null,
@@ -1677,18 +1677,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 69,
-    post_url: ""
+    post_url: "https://twitter.com/beetrootpaul/status/1556976237754687488"
   },
   {
     title: "Pokémon Tower 7F",
     ident: "pkmn_tower_7f",
-    artist: "t3nshi",
+    artist: "@_t3nshi",
     artistImageOverride: "",
     url: "https://twitter.com/_t3nshi",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4880,
+      y: 2512
     },
     offset: {
       x: null,
@@ -1706,13 +1706,13 @@ var interiorAreas = [
   {
     title: "Power Plant",
     ident: "power_plant",
-    artist: "Juanito Medina",
+    artist: "@juanitomedinart",
     artistImageOverride: "juanitomedinart",
     url: "https://twitter.com/juanitomedinart",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4672,
+      y: 1296
     },
     offset: {
       x: null,
@@ -1725,18 +1725,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 71,
-    post_url: ""
+    post_url: "https://twitter.com/juanitomedinart/status/1581266802730242048"
   },
   {
     title: "Rock Tunnel 1F",
     ident: "rock_tunnel_1f",
-    artist: "Sora",
+    artist: "@Sora_x2",
     artistImageOverride: "",
     url: "https://twitter.com/Sora_x2",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4864,
+      y: 400
     },
     offset: {
       x: null,
@@ -1749,18 +1749,18 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 72,
-    post_url: ""
+    post_url: "https://twitter.com/Sora_x2/status/1540349613072216064"
   },
   {
     title: "Rock Tunnel B1F",
     ident: "rock_tunnel_b1f",
-    artist: "MetaruPX",
+    artist: "@MetaruPX",
     artistImageOverride: "",
     url: "https://twitter.com/MetaruPX",
     animation: false,
     point: {
-      x: 0,
-      y: 0
+      x: 4864,
+      y: 848
     },
     offset: {
       x: null,
@@ -1773,7 +1773,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 73,
-    post_url: ""
+    post_url: "https://twitter.com/MetaruPX/status/1571985311647014913"
   },
   {
     title: "Team Rocket's Hideout B1F",
