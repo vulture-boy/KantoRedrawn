@@ -112,9 +112,8 @@ a{
     background-color: #222222;
     color:#aaa;
     display:block;
-    size: 16;
-    flex-grow:1;
-    padding:10px;
+    width: 200px;
+    height: 50px;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
     border-bottom-left-radius: 3px;
