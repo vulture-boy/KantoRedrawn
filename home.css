@@ -3,7 +3,8 @@ html, body {
     padding:0;
     overflow:hidden;
     background-color:#000;
-    font-family: 'Philosopher', sans-serif;
+    font-family: 'RocknRoll One', sans-serif;
+	font-size: .9em;
 }
 a{
     color:currentColor;

@@ -8,7 +8,7 @@ var interiorAreas = [
     animation: false,
     point: {
       x: 832,
-      y: 4496
+      y: 4640
     },
     offset: {
       x: null,
@@ -32,7 +32,7 @@ var interiorAreas = [
     animation: false,
     point: {
       x: 832,
-      y: 4640
+      y: 4496
     },
     offset: {
       x: null,
