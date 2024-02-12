@@ -346,7 +346,6 @@ a{
     padding:8px 20px;
     font-size:1.2em;
     border-radius: 5px;
-    border-bottom:4px solid #222;
     background-color: rgb(53, 199, 53);
     cursor:pointer;
     transition: background-color .2s;
