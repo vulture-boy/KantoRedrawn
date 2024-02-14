@@ -20,7 +20,7 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "mountain",
-    zoom: 2,
+    zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/Dewndeym/status/1393800531047485441"
   },
@@ -70,7 +70,7 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "surfing",
-    zoom: 2,
+    zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/KarlestonChew/status/1482883281808986113"
   },  
@@ -119,7 +119,7 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "town",
-    zoom: 1,
+    zoom: 3,
     teleporters: [],
     post_url: "https://twitter.com/_unsettled_/status/1403027122223001611"
   },

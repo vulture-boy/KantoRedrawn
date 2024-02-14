@@ -16,7 +16,7 @@ a{
 }
 .menu{
     color:#ddd;
-    background-color: #222222;
+    background-color: #302230;
     position:fixed;
     left:0;
     top:0;
@@ -40,7 +40,7 @@ a{
     top:0;
     bottom:0;
     height:100%;
-    background-color: #222222;
+    background-color: #302230;
     
 }
 .menu.active{
@@ -58,7 +58,7 @@ a{
     right:-30px;
     width:30px;
     height:150px;
-    background-color: #222222;
+    background-color: #302230;
     top:0;
     bottom:0;
     display:block;
@@ -94,27 +94,39 @@ a{
     -ms-flex-direction: column;
     flex-direction: column;
     max-height: calc(100vh - 30px);
-    background-color: #222222;
+    background-color: #302230;
 }
 .menu__logo{
     text-align: center;
     margin-top:20px;
 
 }
-.menu__disclaimer {
-    text-align: center;
+.rrlogo {
+      text-align: center;
 }
+
+.rrlogo figure img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.rrlogo figure:hover img {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+}
+
 .menu__actions{
     display:flex;
     margin-top:10px;
 }
 .menu__tab{
     cursor: pointer;
-    background-color: #222222;
+    background-color: #403040;
     color:#aaa;
     display:block;
     width: 200px;
-    height: 50px;
+    height: 40px;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
     border-bottom-left-radius: 3px;
@@ -122,18 +134,18 @@ a{
     border: 0px
 }
 .menu__tab.active{
-    background-color:#161616;
+    background-color:#251625;
     color:#ddd;
     font-weight:bold;
 }
 
 .menu__tab:hover{
-    background-color:#303030;
+    background-color:#504050;
     color:#ddd;
 }
 
 .menu__content{
-    background-color: #222222;
+    background-color: #302230;
     overflow-y:auto;
     max-height: 60vh;
 }
