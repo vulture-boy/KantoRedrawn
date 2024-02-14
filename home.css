@@ -1,5 +1,5 @@
 html, body {
-    margin:0;
+    margin:0;302230
     padding:0;
     overflow:hidden;
     background-color:#000;
@@ -16,7 +16,7 @@ a{
 }
 .menu{
     color:#ddd;
-    background-color: #302230;
+    background-color: #207070;
     position:fixed;
     left:0;
     top:0;
@@ -40,7 +40,7 @@ a{
     top:0;
     bottom:0;
     height:100%;
-    background-color: #302230;
+    background-color: #207070;
     
 }
 .menu.active{
@@ -58,7 +58,7 @@ a{
     right:-30px;
     width:30px;
     height:150px;
-    background-color: #302230;
+    background-color: #207070;
     top:0;
     bottom:0;
     display:block;
@@ -94,7 +94,7 @@ a{
     -ms-flex-direction: column;
     flex-direction: column;
     max-height: calc(100vh - 30px);
-    background-color: #302230;
+    background-color: #207070;
 }
 .menu__logo{
     text-align: center;
@@ -122,30 +122,30 @@ a{
 }
 .menu__tab{
     cursor: pointer;
-    background-color: #403040;
+    background-color: #408080;
     color:#aaa;
     display:block;
     width: 200px;
     height: 40px;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-left-radius: 0em;
+    border-bottom-right-radius: 0em;
     border: 0px
 }
 .menu__tab.active{
-    background-color:#251625;
+    background-color:#106060;
     color:#ddd;
     font-weight:bold;
 }
 
 .menu__tab:hover{
-    background-color:#504050;
+    background-color:#509090;
     color:#ddd;
 }
 
 .menu__content{
-    background-color: #302230;
+    background-color: #207070;
     overflow-y:auto;
     max-height: 60vh;
 }
