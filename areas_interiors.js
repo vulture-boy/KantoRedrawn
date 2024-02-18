@@ -186,7 +186,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 4,
+    zoom: 2,
     teleporters: [],
     order: 7,
     post_url: "https://twitter.com/lamington__/status/1567857506638249984"
@@ -210,7 +210,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 4,
+    zoom: 2,
     teleporters: [],
     order: 8,
     post_url: "https://twitter.com/StrawPact/status/1396869900027760641"
@@ -426,7 +426,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 4,
+    zoom: 2,
     teleporters: [],
     order: 17,
     post_url: "https://twitter.com/JuliaGoodish/status/1376617313076707331"
@@ -474,7 +474,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "subway",
-    zoom: 2,
+    zoom: 1,
     teleporters: [],
     order: 19,
     post_url: "https://twitter.com/ckelsallpxls/status/1372958170885320706"
@@ -642,7 +642,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "hiking",
-    zoom: 2,
+    zoom: 1,
     teleporters: [],
     order: 26,
     post_url: "https://twitter.com/PokemonEstelar/status/1533460356961832961"
@@ -666,7 +666,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "apartment",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 27,
     post_url: "https://twitter.com/emmazapan/status/1482070115629867010"
@@ -690,7 +690,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "apartment",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 28,
     post_url: "https://twitter.com/scribulls/status/1537519688107835392"
@@ -714,34 +714,10 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "apartment",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 29,
     post_url: "https://twitter.com/MetaruPX/status/1468347157837193225"
-  },
-  {
-    title: "Celadon Condos Penthouse",
-    ident: "celadon_condos_penthouse",
-    artist: "@diamchan",
-    artistImageOverride: "",
-    url: "https://twitter.com/diamchan",
-    animation: false,
-    point: {
-      x: 2816,
-      y: 1520
-    },
-    offset: {
-      x: null,
-      y: null,
-      width: null,
-      height: null
-    },
-    pan: "vertical",
-    type: "apartment",
-    zoom: 2,
-    teleporters: [],
-    order: 30,
-    post_url: "https://twitter.com/diamchan/status/1411715630424723456"
   },
   {
     title: "Celadon Condos Roof",
@@ -762,10 +738,34 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "apartment",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 31,
     post_url: "https://twitter.com/KarlestonChew/status/1434980410514153473"
+  },
+  {
+    title: "Celadon Condos Penthouse",
+    ident: "celadon_condos_penthouse",
+    artist: "@diamchan",
+    artistImageOverride: "",
+    url: "https://twitter.com/diamchan",
+    animation: false,
+    point: {
+      x: 2816,
+      y: 1520
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "apartment",
+    zoom: 4,
+    teleporters: [],
+    order: 30,
+    post_url: "https://twitter.com/diamchan/status/1411715630424723456"
   },
   {
     title: "Celadon Department Store 1F",
@@ -954,7 +954,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 39,
     post_url: "https://twitter.com/Rukvsin/status/1396270567553130499"
@@ -1098,7 +1098,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 45,
     post_url: "https://twitter.com/Sora_x2/status/1493407869899001858"
@@ -1122,7 +1122,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 46,
     post_url: "https://twitter.com/willsmithx4/status/1624118075573272594"
@@ -1146,7 +1146,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 47,
     post_url: "https://twitter.com/Quickalas/status/1389697477096448000"
@@ -1194,7 +1194,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 49,
     post_url: "https://twitter.com/Atticus__Finn/status/1412503973442080772"
@@ -1218,7 +1218,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 50,
     post_url: "https://twitter.com/ChJaPx/status/1555261163973246976"
@@ -1242,7 +1242,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 51,
     post_url: "https://twitter.com/Pencilwing/status/1379556431649775622"
@@ -1266,7 +1266,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 52,
     post_url: "https://twitter.com/Woodspixl_/status/1532674898660888578"
@@ -1314,7 +1314,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 54,
     post_url: "https://twitter.com/batfeula/status/1382751861896265730"
@@ -1338,7 +1338,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 55,
     post_url: "https://twitter.com/batfeula/status/1372234348099948551"
@@ -1410,7 +1410,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 58,
     post_url: "https://twitter.com/Rukvsin/status/1387405562980311045"
@@ -1464,7 +1464,7 @@ var interiorAreas = [
     post_url: ""
   },
   {
-    title: "Mansion 2F",
+    title: "Pokémon Mansion 2F",
     ident: "mansion_2f",
     artist: "@Pixelgroover",
     artistImageOverride: "",
@@ -1488,7 +1488,7 @@ var interiorAreas = [
     post_url: "https://twitter.com/pixelgroover/status/1612964349747789826"
   },
   {
-    title: "Mansion 3F",
+    title: "Pokémon Mansion 3F",
     ident: "mansion_3f",
     artist: "@Blindeduif",
     artistImageOverride: "",
@@ -1512,7 +1512,7 @@ var interiorAreas = [
     post_url: "https://twitter.com/blindeduif/status/1756367576118984990"
   },
   {
-    title: "Mansion B1F",
+    title: "Pokémon Mansion B1F",
     ident: "mansion_B1f",
     artist: "@MorlockArt",
     artistImageOverride: "",
@@ -1722,7 +1722,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "factory",
-    zoom: 2,
+    zoom: 1,
     teleporters: [],
     order: 71,
     post_url: "https://twitter.com/juanitomedinart/status/1581266802730242048"
@@ -1890,7 +1890,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "home",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 78,
     post_url: "https://twitter.com/chromegnomes/status/1582047140922413056"
@@ -2322,7 +2322,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 96,
     post_url: "https://twitter.com/SarahBoevingArt/status/1571154830877495298"
@@ -2346,7 +2346,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 97,
     post_url: ""
@@ -2370,7 +2370,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 98,
     post_url: "https://twitter.com/gif_not_jif/status/1420038913071226884"
@@ -2394,7 +2394,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 99,
     post_url: "https://twitter.com/incrediblemaker/status/1436620766913642496"
@@ -2418,7 +2418,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 100,
     post_url: "https://twitter.com/HaywireJo/status/1388991608436281347"
@@ -2442,7 +2442,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 101,
     post_url: "https://twitter.com/chromegnomes/status/1436433097118167045"
@@ -2466,7 +2466,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 102,
     post_url: "https://twitter.com/ArtOfLaurel/status/1537039696282505216"
@@ -2490,7 +2490,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 103,
     post_url: ""
@@ -2514,7 +2514,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 104,
     post_url: "https://twitter.com/foofarawr/status/1582841943364579330"
@@ -2538,7 +2538,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 105,
     post_url: "https://twitter.com/BrandoParmelee/status/1633188775080722433"
@@ -2562,7 +2562,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 106,
     post_url: "https://twitter.com/Etta3413/status/1586863387991887872"
@@ -2586,7 +2586,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 107,
     post_url: "https://twitter.com/Yam_Boy_/status/1465512851070664707"
@@ -2610,7 +2610,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 108,
     post_url: "https://twitter.com/MetaruPX/status/1395020694715518981"
@@ -2634,7 +2634,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 109,
     post_url: "https://twitter.com/ItriPixels/status/1432358802989502464"
@@ -2658,7 +2658,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 110,
     post_url: "https://twitter.com/Polyducks/status/1445043514102927370"
@@ -2682,7 +2682,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 111,
     post_url: "https://twitter.com/PixelAndre_/status/1436804535943667720"
@@ -2706,7 +2706,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "directions_boat",
-    zoom: 2,
+    zoom: 4,
     teleporters: [],
     order: 112,
     post_url: ""
@@ -2754,7 +2754,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "subway",
-    zoom: 2,
+    zoom: 1,
     teleporters: [],
     order: 114,
     post_url: "https://twitter.com/MetaruPX/status/1381995959517843457"
