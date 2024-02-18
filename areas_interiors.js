@@ -232,7 +232,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -256,7 +256,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -282,7 +282,7 @@ var interiorAreas = [
     },
     pan: "vertical",
     type: "award_star",
-    zoom: 4,
+    zoom: 2,
     teleporters: [],
     order: 11,
     post_url: "https://twitter.com/Yam_Boy_/status/1524289869886988289"
@@ -352,7 +352,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 1,
     teleporters: [],
@@ -448,7 +448,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 4,
     teleporters: [],
@@ -784,7 +784,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -808,7 +808,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -832,7 +832,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -856,7 +856,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -880,7 +880,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -904,7 +904,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -952,7 +952,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 4,
     teleporters: [],
@@ -976,7 +976,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -1000,7 +1000,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -1024,7 +1024,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -1072,7 +1072,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 2,
     teleporters: [],
@@ -1288,7 +1288,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "award_star",
     zoom: 2,
     teleporters: [],
@@ -1336,7 +1336,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "award_star",
     zoom: 4,
     teleporters: [],
@@ -1360,7 +1360,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 2,
     teleporters: [],
@@ -1408,7 +1408,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 4,
     teleporters: [],
@@ -1432,7 +1432,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "storefront",
     zoom: 2,
     teleporters: [],
@@ -1456,7 +1456,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 2,
     teleporters: [],
@@ -1480,7 +1480,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 2,
     teleporters: [],
@@ -1504,7 +1504,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 2,
     teleporters: [],
@@ -1528,7 +1528,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 2,
     teleporters: [],
@@ -1720,7 +1720,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "factory",
     zoom: 1,
     teleporters: [],
@@ -1816,7 +1816,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "warehouse",
     zoom: 2,
     teleporters: [],
@@ -1888,7 +1888,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "home",
     zoom: 4,
     teleporters: [],
@@ -1912,7 +1912,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "award_star",
     zoom: 2,
     teleporters: [],
@@ -1936,7 +1936,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -1960,7 +1960,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -1984,7 +1984,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -2008,7 +2008,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -2032,7 +2032,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "hiking",
     zoom: 2,
     teleporters: [],
@@ -2056,7 +2056,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2080,7 +2080,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2104,7 +2104,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2128,7 +2128,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2152,7 +2152,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2176,7 +2176,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2200,7 +2200,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2224,7 +2224,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2248,7 +2248,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "apartment",
     zoom: 2,
     teleporters: [],
@@ -2728,7 +2728,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "train",
     zoom: 2,
     teleporters: [],
@@ -2752,7 +2752,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "subway",
     zoom: 1,
     teleporters: [],
@@ -2776,7 +2776,7 @@ var interiorAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "award_star",
     zoom: 2,
     teleporters: [],
