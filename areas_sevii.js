@@ -1,5 +1,4 @@
 var seviiAreas = [
-
   {
     order: null,
     title: "One Island Mt. Ember",
@@ -24,7 +23,6 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/Dewndeym/status/1393800531047485441"
   },
- 
   {
     order: 1,
     title: "One Island Town",
@@ -49,7 +47,6 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/Anima_nel/status/1547326349253148674"
   },
-  
   {
     order: 2,
     title: "One Island Treasure Beach",
@@ -75,7 +72,7 @@ var seviiAreas = [
     post_url: "https://twitter.com/KarlestonChew/status/1482883281808986113"
   },  
   {
-   order: 3,
+    order: 3,
     title: "One Island Kindle Road",
     ident: "One-Island-Kindle-Road",
     artist: "@Dewndeym",
@@ -98,9 +95,8 @@ var seviiAreas = [
     teleporters: [],
     post_url: ""
   },
-  
-   {
-   order: 4,
+  {
+    order: 4,
     title: "Two Island Town",
     ident: "Two-Island-Town",
     artist: "@_unsettled_",
@@ -123,9 +119,8 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/_unsettled_/status/1403027122223001611"
   },
-
-   {
-   order: 5,
+  {
+    order: 5,
     title: "Two Island: Cape Brink",
     ident: "Two-Island-Cape-Brink",
     artist: "@Paprika_d",
@@ -148,9 +143,8 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/Paprika_d/status/1481656412463722506"
   },
-  
-   {
-   order: 6,
+  {
+    order: 6,
     title: "Three Island Town",
     ident: "Three-Island-Town",
     artist: "@HaywireJo",
@@ -173,9 +167,8 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/HaywireJo/status/1370096913681416194"
   },
-
-   {
-   order: 7,
+  {
+    order: 7,
     title: "Three Island: Bond Bridge",
     ident: "Three-Island-Bond-Bridge",
     artist: "@SuperZikoure",
@@ -198,8 +191,8 @@ var seviiAreas = [
     teleporters: [],
     post_url: ""
   },
-   {
-   order: 8,
+  {
+    order: 8,
     title: "Four Island Town",
     ident: "Four-Island-Town",
     artist: "@StrawBe",
@@ -222,9 +215,8 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1578148922630975492/photo/1"
   },
-  
-   {
-   order: 9,
+  {
+    order: 9,
     title: "Five Island Town and Meadow",
     ident: "Five-Island-Town-Meadow",
     artist: "@StrawBe",
@@ -271,8 +263,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1436843389195104257"
   },
-  
-   {
+  {
     order: 11,
     title: "Five Island: Water Labyrinth",
     ident: "Five-Island-Water-Labyrinth",
