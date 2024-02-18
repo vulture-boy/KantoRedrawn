@@ -111,7 +111,7 @@ var biomes = [
     {
         name: "Trainer Certifier",
         ident: "award_star",
-        iconId: "award_star",
+        iconId: "token",
         color: 'rgb(173 163 110)',
     },
     {
