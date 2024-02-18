@@ -43,7 +43,7 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "town",
     zoom: 2,
     teleporters: [],
@@ -117,9 +117,9 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "town",
-    zoom: 3,
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/_unsettled_/status/1403027122223001611"
   },
@@ -144,7 +144,7 @@ var seviiAreas = [
     },
     pan: "vertical",
     type: "town",
-    zoom: 1,
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/Paprika_d/status/1481656412463722506"
   },
@@ -192,7 +192,7 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "route",
     zoom: 1,
     teleporters: [],
@@ -216,7 +216,7 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "town",
     zoom: 1,
     teleporters: [],
@@ -241,7 +241,7 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "town",
     zoom: 1,
     teleporters: [],
@@ -290,14 +290,13 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "surfing",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/1000_toasters/status/1599805934980673539"
   },
-  
-    {
+  {
     order: 12,
     title: "Resort Gorgeous",
     ident: "Five-Island-Resort-Gorgeous",
@@ -315,14 +314,13 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "surfing",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/blindeduif/status/1389625876720070656"
   },
-
-    {
+  {
     order: 13,
     title: "Six Island Town",
     ident: "Six-Island-Town",
@@ -340,14 +338,13 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "town",
-    zoom: 1,
+    zoom: 2,
     teleporters: [],
     post_url: "https://twitter.com/Arkflinn/status/1452650498310516749"
   },
- 
-    {
+  {
     order: 14,
     title: "Six Island: Ruin Valley",
     ident: "Six-Island-Ruin-Valley",
@@ -365,14 +362,13 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "mountain",
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/zaebucca/status/1723124537665937639"
   },
-  
-      {
+  {
     order: 15,
     title: "Six Island: Green Path",
     ident: "Six-Island-Green-Path",
@@ -390,7 +386,7 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "route",
     zoom: 1,
     teleporters: [],
@@ -444,7 +440,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/Woodspixl_/status/1380866320376401922"
   },
-     {
+  {
     order: 18,
     title: "Seven Island: Seavault Canyon North",
     ident: "Seven-Island-Seavault-Canyon-North",
@@ -468,7 +464,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/LuisEnr13182831/status/1435083713554042881"
   },
-       {
+  {
     order: 19,
     title: "Seven Island: Seavault Canyon South",
     ident: "Seven-Island-Seavault-Canyon-South",
@@ -492,8 +488,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/RunicPixels/status/1398219473014951937"
   },
-  
-       {
+  {
     order: 20,
     title: "Seven Island: Tanoby Ruins",
     ident: "Seven-Island-Tanoby-Ruins",
@@ -511,9 +506,9 @@ var seviiAreas = [
       width: null,
       height: null
     },
-    pan: "vertical",
+    pan: "horizontal",
     type: "surfing",
-    zoom: 2,
+    zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/RunicPixels/status/1457707748108509184"
   },
