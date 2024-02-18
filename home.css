@@ -16,7 +16,7 @@ a{
 }
 .menu{
     color:#ddd;
-    background-color: #207070;
+    background-color: #222034;
     position:fixed;
     left:0;
     top:0;
@@ -40,7 +40,7 @@ a{
     top:0;
     bottom:0;
     height:100%;
-    background-color: #207070;
+    background-color: #222034;
     
 }
 .menu.active{
@@ -58,7 +58,7 @@ a{
     right:-30px;
     width:30px;
     height:150px;
-    background-color: #207070;
+    background-color: #222034;
     top:0;
     bottom:0;
     display:block;
@@ -94,7 +94,7 @@ a{
     -ms-flex-direction: column;
     flex-direction: column;
     max-height: calc(100vh - 30px);
-    background-color: #207070;
+    background-color: #222034;
 }
 .menu__logo{
     text-align: center;
@@ -122,7 +122,7 @@ a{
 }
 .menu__tab{
     cursor: pointer;
-    background-color: #408080;
+    background-color: #13111e;
     color:#aaa;
     display:block;
     width: 200px;
@@ -134,18 +134,18 @@ a{
     border: 0px
 }
 .menu__tab.active{
-    background-color:#106060;
+    background-color:#3f3f74;
     color:#ddd;
     font-weight:bold;
 }
 
 .menu__tab:hover{
-    background-color:#509090;
+    background-color:#402b66;
     color:#ddd;
 }
 
 .menu__content{
-    background-color: #207070;
+    background-color: #222034;
     overflow-y:auto;
     max-height: 60vh;
 }
