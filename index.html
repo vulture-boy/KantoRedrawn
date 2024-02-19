@@ -36,12 +36,7 @@
                         <img src="img/website/kanto_redrawn_logo.png" alt="Kanto Redrawn" draggable="false" />
                     </a>
                 </div>
-                <div style="text-align: center;">
-                    <input type="radio" id="mapSelectRedrawn" name="mapSelect" value="redrawn" checked onchange="toggleMapStyle()">
-                    <label for="mapSelectRedrawn">Redrawn</label>
-                    <input type="radio" id="mapSelectOriginal" name="mapSelect" value="original" onchange="toggleMapStyle()">
-                    <label for="mapSelectOriginal">Original</label>
-                </div>
+
                 <div class="menu__actions">
                     <button onclick="changeTab(0)" class="menu__tab active">
                         Area List
@@ -102,9 +97,15 @@
 
                     </div>
                 </div>
-               
-                <div class="tour">
+                <div style="text-align: center;">
                     <p>
+                    Original
+                    <label class="switch">
+                        <input type="CheckBox" id="mapSelectRedrawn" onclick="toggleMapStyle()">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+                <div class="tour">
                     <button id="tourButton" onclick="toggleTour()"><span class="material-icons">play_arrow</span> <span>Begin Tour</span></button>
                     </p>
                 </div>
