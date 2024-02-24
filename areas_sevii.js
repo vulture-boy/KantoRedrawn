@@ -1,15 +1,15 @@
 var seviiAreas = [
   {
     order: null,
-    title: "One Island Mt. Ember",
-    ident: "One-Island-Mt-Ember",
-    artist: "@Dewndeym",
+    title: "One Island: Treasure Beach",
+    ident: "One-Island-Treasure-Beach",
+    artist: "@KarlestonChew",
     artistImageOverride: "",
-    url: "https://twitter.com/Dewndeym",
+    url: "https://twitter.com/KarlestonChew",
     animation: false,
     point: {
       x: 0,
-      y: 0,
+      y: 2720
     },
     offset: {
       x: null,
@@ -18,11 +18,11 @@ var seviiAreas = [
       height: null
     },
     pan: "vertical",
-    type: "mountain",
+    type: "surfing",
     zoom: 1,
     teleporters: [],
-    post_url: "https://twitter.com/Dewndeym/status/1393800531047485441"
-  },
+    post_url: "https://twitter.com/KarlestonChew/status/1482883281808986113"
+  },  
   {
     order: 1,
     title: "One Island Town",
@@ -49,31 +49,7 @@ var seviiAreas = [
   },
   {
     order: 2,
-    title: "One Island Treasure Beach",
-    ident: "One-Island-Treasure-Beach",
-    artist: "@KarlestonChew",
-    artistImageOverride: "",
-    url: "https://twitter.com/KarlestonChew",
-    animation: false,
-    point: {
-      x: 0,
-      y: 2720
-    },
-    offset: {
-      x: null,
-      y: null,
-      width: null,
-      height: null
-    },
-    pan: "vertical",
-    type: "surfing",
-    zoom: 1,
-    teleporters: [],
-    post_url: "https://twitter.com/KarlestonChew/status/1482883281808986113"
-  },  
-  {
-    order: 3,
-    title: "One Island Kindle Road",
+    title: "One Island: Kindle Road",
     ident: "One-Island-Kindle-Road",
     artist: "@Dewndeym",
     artistImageOverride: "",
@@ -94,6 +70,30 @@ var seviiAreas = [
     zoom: 1,
     teleporters: [],
     post_url: ""
+  },
+  {
+    order: 3,
+    title: "One Island: Mt. Ember",
+    ident: "One-Island-Mt-Ember",
+    artist: "@Dewndeym",
+    artistImageOverride: "",
+    url: "https://twitter.com/Dewndeym",
+    animation: false,
+    point: {
+      x: 0,
+      y: 0,
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "mountain",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/Dewndeym/status/1393800531047485441"
   },
   {
     order: 4,
@@ -217,30 +217,6 @@ var seviiAreas = [
   },
   {
     order: 9,
-    title: "Five Island Town and Meadow",
-    ident: "Five-Island-Town-Meadow",
-    artist: "@StrawBe",
-    artistImageOverride: "",
-    url: "https://twitter.com/StrawPact",
-    animation: false,
-    point: {
-      x: 1760,
-      y: 3936
-    },
-    offset: {
-      x: null,
-      y: null,
-      width: null,
-      height: null
-    },
-    pan: "horizontal",
-    type: "town",
-    zoom: 1,
-    teleporters: [],
-    post_url: "https://twitter.com/StrawPact/status/1459286160727969796"
-  },
-  {
-    order: 10,
     title: "Five Island Memorial Pillar",
     ident: "Five-Island-Memorial-Pillar",
     artist: "@StrawBe",
@@ -262,6 +238,30 @@ var seviiAreas = [
     zoom: 1,
     teleporters: [],
     post_url: "https://twitter.com/StrawPact/status/1436843389195104257"
+  },
+  {
+    order: 10,
+    title: "Five Island Town and Meadow",
+    ident: "Five-Island-Town-Meadow",
+    artist: "@StrawBe",
+    artistImageOverride: "",
+    url: "https://twitter.com/StrawPact",
+    animation: false,
+    point: {
+      x: 1760,
+      y: 3936
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "horizontal",
+    type: "town",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/StrawPact/status/1459286160727969796"
   },
   {
     order: 11,
@@ -289,7 +289,7 @@ var seviiAreas = [
   },
   {
     order: 12,
-    title: "Resort Gorgeous",
+    title: "Five Island: Resort Gorgeous",
     ident: "Five-Island-Resort-Gorgeous",
     artist: "@Blindeduif",
     artistImageOverride: "",
@@ -313,6 +313,54 @@ var seviiAreas = [
   },
   {
     order: 13,
+    title: "Six Island: Outcast Island",
+    ident: "Six-Island-Outcast-Island",
+    artist: "@gif_not_jiff",
+    artistImageOverride: "",
+    url: "https://twitter.com/gif_not_jif",
+    animation: false,
+    point: {
+      x: 3068,
+      y: 3392
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "vertical",
+    type: "surfing",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/gif_not_jif/status/1690105812486852609"
+  },
+  {
+    order: 14,
+    title: "Six Island: Green Path",
+    ident: "Six-Island-Green-Path",
+    artist: "@YukiPixels",
+    artistImageOverride: "",
+    url: "https://twitter.com/YukiPixels",
+    animation: false,
+    point: {
+      x: 3136,
+      y: 4400
+    },
+    offset: {
+      x: null,
+      y: null,
+      width: null,
+      height: null
+    },
+    pan: "horizontal",
+    type: "route",
+    zoom: 1,
+    teleporters: [],
+    post_url: "https://twitter.com/YukiPixels/status/1565375680875008002"
+  },
+   {
+    order: 15,
     title: "Six Island Town",
     ident: "Six-Island-Town",
     artist: "@Arkflinn",
@@ -336,7 +384,7 @@ var seviiAreas = [
     post_url: "https://twitter.com/Arkflinn/status/1452650498310516749"
   },
   {
-    order: 14,
+    order: 16,
     title: "Six Island: Ruin Valley",
     ident: "Six-Island-Ruin-Valley",
     artist: "@Zaebucca",
@@ -359,55 +407,7 @@ var seviiAreas = [
     teleporters: [],
     post_url: "https://twitter.com/zaebucca/status/1723124537665937639"
   },
-  {
-    order: 15,
-    title: "Six Island: Green Path",
-    ident: "Six-Island-Green-Path",
-    artist: "@YukiPixels",
-    artistImageOverride: "",
-    url: "https://twitter.com/YukiPixels",
-    animation: false,
-    point: {
-      x: 3136,
-      y: 4400
-    },
-    offset: {
-      x: null,
-      y: null,
-      width: null,
-      height: null
-    },
-    pan: "horizontal",
-    type: "route",
-    zoom: 1,
-    teleporters: [],
-    post_url: "https://twitter.com/YukiPixels/status/1565375680875008002"
-  },
-  {
-    order: 16,
-    title: "Six Island: Outcast Island",
-    ident: "Six-Island-Outcast-Island",
-    artist: "@gif_not_jiff",
-    artistImageOverride: "",
-    url: "https://twitter.com/gif_not_jif",
-    animation: false,
-    point: {
-      x: 3068,
-      y: 3392
-    },
-    offset: {
-      x: null,
-      y: null,
-      width: null,
-      height: null
-    },
-    pan: "vertical",
-    type: "surfing",
-    zoom: 1,
-    teleporters: [],
-    post_url: "https://twitter.com/gif_not_jif/status/1690105812486852609"
-  },
-     {
+    {
     order: 17,
     title: "Seven Island Town and Trainer Tower",
     ident: "Seven-Island-Town-Trainer-Tower",
