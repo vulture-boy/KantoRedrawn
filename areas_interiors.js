@@ -477,7 +477,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 42,
-    post_url: "https://twitter.com/MetaruPX/status/1571985311647014913"
+    post_url: "https://twitter.com/Chibi_Jame/status/1583515707727572992"
   },
   {
     title: "Bike Shop",
@@ -580,7 +580,7 @@ var interiorAreas = [
     ident: "rock_tunnel_1f",
     artist: "@Sora_x2",
     artistImageOverride: "",
-    url: "https://twitter.com/Sora_x2",
+    url: "https://twitter.com/sora_pixel",
     animation: false,
     point: {
       x: 4864,
@@ -1156,7 +1156,7 @@ var interiorAreas = [
     ident: "ss_anne_room_10",
     artist: "@BrandoParmelee",
     artistImageOverride: "",
-    url: "https://twitter.com/BrandoParmelee/",
+    url: "https://twitter.com/BrandoParm/",
     animation: false,
     point: {
       x: 4832,
@@ -2452,7 +2452,7 @@ var interiorAreas = [
     ident: "cinnabar_lab_2",
     artist: "@Sora_x2",
     artistImageOverride: "",
-    url: "https://twitter.com/Sora_x2",
+    url: "https://twitter.com/sora_pixel",
     animation: false,
     point: {
       x: 528,
@@ -2517,7 +2517,7 @@ var interiorAreas = [
     zoom: 2,
     teleporters: [],
     order: 47,
-    post_url: "https://twitter.com/Quickalas/status/1389697477096448000"
+    post_url: ""
   },
   {
     title: "Pokémon Mansion 1F",
