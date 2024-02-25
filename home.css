@@ -211,6 +211,9 @@ a{
     display:block;
 }
 
+#bgmPlayer{
+    width: 100%;
+}
 #areaList, #settings, #about {
     padding:5px;
     margin:0;
