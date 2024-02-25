@@ -718,8 +718,8 @@ var kantoAreas = [
   {
     title: "Saffron City",
     ident: "saffron_city",
-    artist: "@foofarawr",
-    artistImageOverride: "Foofarawr",
+    artist: "@Foofarawr",
+    artistImageOverride: "",
     url: "https://twitter.com/foofarawr",
     animation: false,
     point: {
