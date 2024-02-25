@@ -100,7 +100,7 @@ var seviiAreas = [
     title: "Two Island Town",
     ident: "Two-Island-Town",
     artist: "@_unsettled_",
-    artistImageOverride: "",
+    artistImageOverride: "unsettled",
     url: "https://twitter.com/_unsettled_",
     animation: false,
     point: {

@@ -339,7 +339,7 @@ var interiorAreas = [
     title: "Mt. Moon 1F",
     ident: "mt_moon_1f",
     artist: "@_Mechano_",
-    artistImageOverride: "",
+    artistImageOverride: "Mechano",
     url: "https://twitter.com/_Mechano_",
     animation: false,
     point: {
@@ -747,7 +747,7 @@ var interiorAreas = [
     title: "Pokémon Tower 5F",
     ident: "pkmn_tower_5f",
     artist: "@_discocats",
-    artistImageOverride: "",
+    artistImageOverride: "discocats",
     url: "https://twitter.com/_discocats",
     animation: false,
     point: {
@@ -795,7 +795,7 @@ var interiorAreas = [
     title: "Pokémon Tower 7F",
     ident: "pkmn_tower_7f",
     artist: "@_t3nshi",
-    artistImageOverride: "",
+    artistImageOverride: "t3nshi",
     url: "https://twitter.com/_t3nshi",
     animation: false,
     point: {
@@ -1059,7 +1059,7 @@ var interiorAreas = [
     title: "S.S. Anne Hallways",
     ident: "ss_anne_halls",
     artist: "@Nekofresa",
-    artistImageOverride: "",
+    artistImageOverride: "nekofresa",
     url: "https://twitter.com/nekofresa",
     animation: false,
     point: {
@@ -2499,7 +2499,7 @@ var interiorAreas = [
     title: "Cinnabar Lab: Experimental Lab",
     ident: "cinnabar_lab_4",
     artist: "@Quickalas",
-    artistImageOverride: "",
+    artistImageOverride: "quickalas",
     url: "https://twitter.com/Quickalas",
     animation: false,
     point: {
@@ -2547,7 +2547,7 @@ var interiorAreas = [
     title: "Pokémon Mansion 2F",
     ident: "mansion_2f",
     artist: "@Pixelgroover",
-    artistImageOverride: "",
+    artistImageOverride: "pixelgroover",
     url: "https://twitter.com/pixelgroover",
     animation: false,
     point: {
@@ -2593,7 +2593,7 @@ var interiorAreas = [
   },
   {
     title: "Pokémon Mansion B1F",
-    ident: "mansion_B1f",
+    ident: "mansion_b1f",
     artist: "@MorlockArt",
     artistImageOverride: "",
     url: "https://twitter.com/MorlockArt",
