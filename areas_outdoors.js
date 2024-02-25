@@ -719,7 +719,7 @@ var kantoAreas = [
     title: "Saffron City",
     ident: "saffron_city",
     artist: "@foofarawr",
-    artistImageOverride: "",
+    artistImageOverride: "Foofarawr",
     url: "https://twitter.com/foofarawr",
     animation: false,
     point: {
@@ -887,7 +887,7 @@ var kantoAreas = [
     title: "Safari Zone North",
     ident: "safari_zone_north",
     artist: "@_Mechano_",
-    artistImageOverride: "",
+    artistImageOverride: "Mechano",
     url: "https://twitter.com/_Mechano_",
     animation: false,
     point: {
