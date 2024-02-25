@@ -388,7 +388,7 @@ var seviiAreas = [
     title: "Six Island: Ruin Valley",
     ident: "Six-Island-Ruin-Valley",
     artist: "@Zaebucca",
-    artistImageOverride: "",
+    artistImageOverride: "zaebucca",
     url: "https://twitter.com/zaebucca",
     animation: false,
     point: {

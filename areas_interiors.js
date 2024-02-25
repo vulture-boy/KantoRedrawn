@@ -51,7 +51,7 @@ var interiorAreas = [
     title: "Professor Oak’s Lab",
     ident: "oaks_lab",
     artist: "@Nekofresa",
-    artistImageOverride: "",
+    artistImageOverride: "nekofresa",
     url: "https://twitter.com/nekofresa",
     animation: false,
     point: {
@@ -1779,7 +1779,7 @@ var interiorAreas = [
     title: "Silph Co. 11F",
     ident: "silph_11f",
     artist: "@_t3nshi",
-    artistImageOverride: "",
+    artistImageOverride: "t3nshi",
     url: "https://twitter.com/_t3nshi",
     animation: false,
     point: {
