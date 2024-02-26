@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Kanto Redrawn</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no"> <!--App should handle scaling-->
     <meta property="og:title" content="Pokemon Redrawn">
     <meta property="og:site_name" content="Retro Redrawn">
     <meta property="og:url" content="http://retroredrawn.com/">
@@ -42,7 +42,7 @@
                         Area List
                     </button>
                     <button onclick="changeTab(1)" class="menu__tab">
-                        Options
+                        Features
                     </button>
                     <button onclick="changeTab(2)" class="menu__tab">
                         About
@@ -60,19 +60,33 @@
                         <ul id="areas"></ul>
                     </div>
                     <div id="settings">
-                        <div><input type="checkbox" id="disableBlur"><label for="disableBlur">Disable Zoom Blur</label> </div><br>
-                        <br>
+                        <div class="bgm">
+                            <label>Vermilion City - Pokerus Project</label>
+                            <audio class="bgmPlayer" controls autoplay loop>
+                                <source src="audio/VermilionCity_PokerusPr.mp3" type="audio/mpeg">
+                            </audio><br>
+                            <label>Route 12 - Toribobs</label>
+                            <audio class="bgmPlayer" controls autoplay loop>
+                                <source src="audio/Route12_Toribobs.mp3" type="audio/mpeg">
+                            </audio>
+                        </div>
                         <hr>
-                        <div>
-                            <label>Camera Speed</label><br>
-                            <input type="range" min="0.5" max="2" value="1" step="0.25" id="cameraSpeed" oninput="changeCameraSpeed(this.value)">
-                            <small>1x</small>
+                        <div class="tour">
+                            <button id="tourButton" onclick="toggleTour()"><span class="material-icons">play_arrow</span> <span>Begin Tour</span></button>
+                            </p>
                         </div>
                         <div>
                             <label>Tour Speed</label><br>
                             <input type="range" min="0.5" max="2" value="1" step="0.25" id="tourCameraSpeed" oninput="changeTourCameraSpeed(this.value)">
                             <small>1x</small>
                         </div>
+                        <hr>
+                        <div>
+                            <label>Camera Speed</label><br>
+                            <input type="range" min="0.5" max="2" value="1" step="0.25" id="cameraSpeed" oninput="changeCameraSpeed(this.value)">
+                            <small>1x</small>
+                        </div>
+                        <div><input type="checkbox" id="disableBlur"><label for="disableBlur">Disable Zoom Blur</label> </div>
                         <hr>
                     </div>
                     <div id="about">
@@ -88,6 +102,7 @@
                         <p>Based on Johto Redrawn, developed by <a href="https://twitter.com/hyperjerk" target="_blank">@HyperJerk</a></p>
 						<p>General site maintenance and support by <a href="https://linktr.ee/blindeduif" target="_blank">@blindeduif</a></p>
                         <p>"Vermillion City" BGM by <a href="https://pokerusproject.bandcamp.com/">Pokérus Project</a></p>
+                        <p>"Route 12" BGM by Tori Roberts (<a href="https://twitter.com/torrybobs">@torrybobs</a>)</p>
                         <p>Sevii 'original' maps contributed by foofarawr, <a href="https://twitter.com/Anima_nel">anima_nel</a> & <a href="https://www.artstation.com/ckelsallpixels">ckelsallpixels</a>.</p>
                         <hr>
                         <p><b>Disclaimer</b></p>
@@ -108,22 +123,12 @@
                     </label>
                     Original
                 </div>
-                <div class="tour">
-                    <button id="tourButton" onclick="toggleTour()"><span class="material-icons">play_arrow</span> <span>Begin Tour</span></button>
-                    </p>
-                </div>
-                <div class="bgm">
-                    <audio id="bgmPlayer" controls autoplay loop>
-                        <source src="audio/VERMILLION_mezcla_v1_01.mp3" type="audio/mpeg">
-                    </audio>
-                </div>
                 <div class="rrlogo">
                     <hr>
                     <a href="http://retroredrawn.com/">
                         <figure><img src="img/website/retro_redrawn_logo.png" alt = "Retroredrawn Logo">
                     </a>
                     <p>
-
                 </div>
             </div>
         </div>

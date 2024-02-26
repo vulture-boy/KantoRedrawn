@@ -211,7 +211,7 @@ a{
     display:block;
 }
 
-#bgmPlayer{
+.bgmPlayer{
     width: 100%;
 }
 #areaList, #settings, #about {
