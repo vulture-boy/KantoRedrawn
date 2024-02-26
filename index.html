@@ -36,7 +36,15 @@
                         <img src="img/website/kanto_redrawn_logo.png" alt="Kanto Redrawn" draggable="false" />
                     </a>
                 </div>
-
+                <div style="text-align: center;">
+                    <p>
+                    Redrawn
+                    <label class="switch">
+                        <input type="CheckBox" id="mapSelectRedrawn" onclick="toggleMapStyle()">
+                        <span class="slider"></span>
+                    </label>
+                    Original
+                </div>
                 <div class="menu__actions">
                     <button onclick="changeTab(0)" class="menu__tab active">
                         Area List
@@ -95,6 +103,11 @@
                         <hr>
                         <p>To navigate, drag and pull to pan and zoom the map, similarly as you would on sites like Google Maps.</p>
                         <hr>
+                        Check out more projects at...
+                        <div class="rrlogo">
+                            <a href="http://retroredrawn.com/"><img id="rrlogo_img" src="img/website/retro_redrawn_logo.png" alt = "Retroredrawn Logo"></a>
+                        </div>
+                        <hr>
                         <p><b>Credits</b></p>
                         <p>The site is the collaborative work of the Retro Redrawn community and is maintained by the Retro Redrawn organizational team.</p>
                         <p>Organized by <a href="https://twitter.com/foofarawr" target="_blank">@foofarawr</a></p>    
@@ -114,22 +127,7 @@
 
                     </div>
                 </div>
-                <div style="text-align: center;">
-                    <p>
-                    Redrawn
-                    <label class="switch">
-                        <input type="CheckBox" id="mapSelectRedrawn" onclick="toggleMapStyle()">
-                        <span class="slider"></span>
-                    </label>
-                    Original
-                </div>
-                <div class="rrlogo">
-                    <hr>
-                    <a href="http://retroredrawn.com/">
-                        <figure><img src="img/website/retro_redrawn_logo.png" alt = "Retroredrawn Logo">
-                    </a>
-                    <p>
-                </div>
+                
             </div>
         </div>
         <div id="loading" class="active">
