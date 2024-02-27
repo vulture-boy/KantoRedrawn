@@ -703,8 +703,7 @@ function onMouseWheel (e) {
         zoomMousePos = { x: e.x, y: e.y }
         if (!mouseDown && !cameraAnimation.playing) {
             var zoomAmount = e.deltaY < 0 ? 2 : .5
-            if ((zoomMax > zoomLevel > zoomMin) &&
-                ((zoomLevel > zoomMin && e.deltaY > 0) || (zoomLevel < zoomMax && e.deltaY < 0))) {
+            if ((zoomLevel > zoomMin && e.deltaY > 0) || (zoomLevel < zoomMax && e.deltaY < 0)) {
                 
                 currentPos = {...zoomCenter}
                 dragVelocity = { x: 0, y: 0 }
