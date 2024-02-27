@@ -360,7 +360,8 @@ function setUpAreas () {
         }
         
         // Prepare the HTML block corresponding to an area and its associated credts
-        var html = `<li class="area" title="${area.title}" style="background-color:${backgroundColor}" onclick="focusOnArea('${area.title}')">
+        var html = 
+        `<li class="area" title="${area.title}" style="background-color:${backgroundColor}" onclick="focusOnArea('${area.title}')">
             <div class="area__header" >
                 <span class="material-icons">
                     ${materialIcon}
@@ -373,10 +374,9 @@ function setUpAreas () {
                 <div class="area__info__inner">
                     <div class="area__info__img">
                         ${artistImageHTML}
-                        
                     </div>
                     <div class="area__info__name">
-                        <a href="${area.url}" target="_blank" title="${area.artist}">${area.artist}</a>
+                        ${area.url ? `<a href="${area.url}" target="_blank" title="${area.artist}">${area.artist}</a>` : `<a>${area.artist}</a>`}
                         ${area.post_url ? `<a href="${area.post_url}" target="_blank" title="View Post">[View Post]</a>` : ''}
                     </div>
                 </div>
