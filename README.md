@@ -3,7 +3,7 @@
 Repository for the Pokemon Redrawn project.
 
 The base code was originally programmed by Jerky (@Hyperjerk) for the Retro Redrawn Kanto and Johto projects.
-This version on GitHub was created and refactored by Tyson Moll for reuse and repurpose (https://tysonmoll.ca/), originally for Castlevania Redrawn.
+This version on GitHub was created and refactored for reuse and repurpose by Tyson Moll (https://tysonmoll.ca/), originally for Castlevania Redrawn.
 
 Artists are credited for their work in the project website (as denoted in the areas.js file).
 
